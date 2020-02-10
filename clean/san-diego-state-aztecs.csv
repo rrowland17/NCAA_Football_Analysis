@@ -1,0 +1,36 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.6,,,234.0,63.1,6.0,74,Ryan Agnew QB,371.0,2462.0,,128.0,,,,19.0,-156.0,14,89,QB,san-diego-state-aztecs
+1,7.2,,,19.0,79.2,0.0,33,Carson Baker QB,24.0,172.0,,153.1,,,,2.0,-7.0,1,89,QB,san-diego-state-aztecs
+2,0.0,,,0.0,0.0,0.0,0,-,2.0,0.0,,0.0,,,,0.0,0.0,0,89,-,san-diego-state-aztecs
+4,,,3.3,,,,30,Juwan Washington RB,,,,,,150.0,500.0,,,2,89,RB,san-diego-state-aztecs
+5,,,4.3,,,,22,Chance Bell RB,,,,,,89.0,384.0,,,2,89,RB,san-diego-state-aztecs
+6,,,0.0,,,,2,BJ Busbee WR,,,,,,2.0,0.0,,,0,89,WR,san-diego-state-aztecs
+7,,,-2.0,,,,6,Brandon Heicklen P,,,,,,1.0,-2.0,,,0,89,P,san-diego-state-aztecs
+8,,,-0.7000000000000001,,,,1,Zidane Thomas RB,,,,,,3.0,-2.0,,,0,89,RB,san-diego-state-aztecs
+9,,,-6.0,,,,0,Daniel Bellinger TE,,,,,,1.0,-6.0,,,0,89,TE,san-diego-state-aztecs
+10,,,-1.8,,,,0,-,,,,,,15.0,-27.0,,,0,89,-,san-diego-state-aztecs
+12,,,4.6,,,,50,Chase Jasmin RB,,,,,,79.0,366.0,,,4,89,RB,san-diego-state-aztecs
+13,,,4.6,,,,56,Jordan Byrd RB,,,,,,78.0,355.0,,,3,89,RB,san-diego-state-aztecs
+14,,,1.6,,,,19,Ryan Agnew QB,,,,,,72.0,116.0,,,1,89,QB,san-diego-state-aztecs
+15,,,3.7,,,,19,Kaegun Williams RB,,,,,,30.0,110.0,,,0,89,RB,san-diego-state-aztecs
+16,,,3.0,,,,7,Jordon Brookshire QB,,,,,,5.0,15.0,,,0,89,QB,san-diego-state-aztecs
+17,,,0.9,,,,5,Carson Baker QB,,,,,,8.0,7.0,,,0,89,QB,san-diego-state-aztecs
+18,,,7.0,,,,7,Jesse Matthews WR,,,,,,1.0,7.0,,,0,89,WR,san-diego-state-aztecs
+19,,,2.0,,,,6,Ethan Dedeaux WR,,,,,,2.0,4.0,,,0,89,WR,san-diego-state-aztecs
+20,,11.9,,,,,42,Kobe Smith WR,,,58.0,,691.0,,,,,4,89,WR,san-diego-state-aztecs
+21,,13.2,,,,,74,Jesse Matthews WR,,,48.0,,633.0,,,,,2,89,WR,san-diego-state-aztecs
+22,,6.4,,,,,21,Chance Bell RB,,,12.0,,77.0,,,,,0,89,RB,san-diego-state-aztecs
+23,,4.0,,,,,20,Jordan Byrd RB,,,16.0,,64.0,,,,,0,89,RB,san-diego-state-aztecs
+24,,19.0,,,,,29,TJ Sullivan WR,,,2.0,,38.0,,,,,1,89,WR,san-diego-state-aztecs
+25,,6.8,,,,,11,Kaegun Williams RB,,,4.0,,27.0,,,,,0,89,RB,san-diego-state-aztecs
+26,,18.0,,,,,18,Isaac Lessard FB,,,1.0,,18.0,,,,,0,89,FB,san-diego-state-aztecs
+27,,7.0,,,,,7,Justin Dinka RB,,,1.0,,7.0,,,,,0,89,RB,san-diego-state-aztecs
+28,,-9.0,,,,,0,Ryan Agnew QB,,,1.0,,-9.0,,,,,0,89,QB,san-diego-state-aztecs
+30,,13.4,,,,,28,Daniel Bellinger TE,,,15.0,,201.0,,,,,3,89,TE,san-diego-state-aztecs
+31,,10.5,,,,,29,Elijah Kothe WR,,,17.0,,179.0,,,,,0,89,WR,san-diego-state-aztecs
+32,,8.6,,,,,19,Parker Houston TE,,,18.0,,154.0,,,,,0,89,TE,san-diego-state-aztecs
+33,,17.3,,,,,49,Ethan Dedeaux WR,,,7.0,,121.0,,,,,1,89,WR,san-diego-state-aztecs
+34,,13.2,,,,,49,Isaiah Richardson WR,,,9.0,,119.0,,,,,1,89,WR,san-diego-state-aztecs
+35,,8.4,,,,,23,BJ Busbee WR,,,13.0,,109.0,,,,,0,89,WR,san-diego-state-aztecs
+36,,7.5,,,,,20,Chase Jasmin RB,,,14.0,,105.0,,,,,1,89,RB,san-diego-state-aztecs
+37,,5.9,,,,,21,Juwan Washington RB,,,17.0,,100.0,,,,,2,89,RB,san-diego-state-aztecs

@@ -1,0 +1,34 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.7,,,105.0,59.0,3.0,57,Matt Corral QB,178.0,1362.0,,131.0,,,,13.0,-82.0,6,115,QB,ole-miss-rebels
+1,6.1,,,79.0,52.7,3.0,41,John Rhys Plumlee QB,150.0,910.0,,108.4,,,,8.0,-45.0,4,115,QB,ole-miss-rebels
+2,28.0,,,2.0,100.0,0.0,28,Grant Tisdale QB,2.0,56.0,,500.2,,,,0.0,0.0,1,115,QB,ole-miss-rebels
+3,0.0,,,0.0,0.0,0.0,0,-,2.0,0.0,,0.0,,,,0.0,0.0,0,115,-,ole-miss-rebels
+5,,,6.6,,,,75,John Rhys Plumlee QB,,,,,,154.0,1023.0,,,12,115,QB,ole-miss-rebels
+6,,,6.9,,,,78,Jerrion Ealy RB,,,,,,104.0,722.0,,,6,115,RB,ole-miss-rebels
+7,,,7.0,,,,7,KeShun Wells RB,,,,,,1.0,7.0,,,0,115,RB,ole-miss-rebels
+8,,,1.7000000000000002,,,,4,D'Vaughn Pennamon TE,,,,,,3.0,5.0,,,0,115,TE,ole-miss-rebels
+9,,,1.0,,,,1,Octavious Cooley TE,,,,,,1.0,1.0,,,0,115,TE,ole-miss-rebels
+10,,,-0.30000000000000004,,,,3,Elijah Moore WR,,,,,,4.0,-1.0,,,0,115,WR,ole-miss-rebels
+11,,,-5.0,,,,4,-,,,,,,6.0,-30.0,,,0,115,-,ole-miss-rebels
+13,,,4.3,,,,38,Scottie Phillips RB,,,,,,125.0,542.0,,,5,115,RB,ole-miss-rebels
+14,,,6.3,,,,84,Snoop Conner RB,,,,,,81.0,512.0,,,5,115,RB,ole-miss-rebels
+15,,,2.4,,,,23,Matt Corral QB,,,,,,57.0,135.0,,,1,115,QB,ole-miss-rebels
+16,,,5.4,,,,11,Tylan Knight RB,,,,,,7.0,38.0,,,0,115,RB,ole-miss-rebels
+17,,,3.1,,,,8,Isaiah Woullard RB,,,,,,10.0,31.0,,,0,115,RB,ole-miss-rebels
+18,,,6.0,,,,9,Dannis Jackson WR,,,,,,2.0,12.0,,,0,115,WR,ole-miss-rebels
+19,,,5.0,,,,5,Grant Tisdale QB,,,,,,2.0,10.0,,,0,115,QB,ole-miss-rebels
+20,,,4.5,,,,5,Kinkead Dent QB,,,,,,2.0,9.0,,,0,115,QB,ole-miss-rebels
+21,,12.7,,,,,55,Elijah Moore WR,,,67.0,,850.0,,,,,6,115,WR,ole-miss-rebels
+22,,19.2,,,,,57,Braylon Sanders WR,,,10.0,,192.0,,,,,0,115,WR,ole-miss-rebels
+23,,9.6,,,,,22,Scottie Phillips RB,,,8.0,,77.0,,,,,1,115,RB,ole-miss-rebels
+24,,10.0,,,,,25,Snoop Conner RB,,,6.0,,60.0,,,,,0,115,RB,ole-miss-rebels
+25,,5.5,,,,,11,Tylan Knight RB,,,6.0,,33.0,,,,,0,115,RB,ole-miss-rebels
+26,,10.0,,,,,14,Miles Battle WR,,,2.0,,20.0,,,,,0,115,WR,ole-miss-rebels
+28,,14.5,,,,,38,Dontario Drummond WR,,,13.0,,188.0,,,,,0,115,WR,ole-miss-rebels
+29,,8.6,,,,,26,Jerrion Ealy RB,,,20.0,,172.0,,,,,1,115,RB,ole-miss-rebels
+30,,14.3,,,,,32,Jonathan Mingo WR,,,12.0,,172.0,,,,,1,115,WR,ole-miss-rebels
+31,,12.5,,,,,29,Octavious Cooley TE,,,13.0,,162.0,,,,,0,115,TE,ole-miss-rebels
+32,,21.2,,,,,41,Demarcus Gregory WR,,,6.0,,127.0,,,,,0,115,WR,ole-miss-rebels
+33,,9.8,,,,,25,Jason Pellerin TE,,,11.0,,108.0,,,,,1,115,TE,ole-miss-rebels
+34,,17.4,,,,,28,Jadon Jackson WR,,,5.0,,87.0,,,,,1,115,WR,ole-miss-rebels
+35,,11.4,,,,,28,Dannis Jackson WR,,,7.0,,80.0,,,,,0,115,WR,ole-miss-rebels

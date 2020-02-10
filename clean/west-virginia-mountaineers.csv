@@ -1,0 +1,41 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.5,,,187.0,61.5,10.0,83,Austin Kendall QB,304.0,1989.0,,122.9,,,,12.0,-85.0,12,35,QB,west-virginia-mountaineers
+1,6.8,,,79.0,65.8,3.0,50,Jarret Doege QB,120.0,818.0,,137.3,,,,7.0,-50.0,7,35,QB,west-virginia-mountaineers
+2,5.5,,,19.0,73.1,2.0,27,Jack Allison QB,26.0,144.0,,116.9,,,,2.0,-10.0,1,35,QB,west-virginia-mountaineers
+3,24.0,,,1.0,100.0,0.0,24,Isaiah Esdale WR,1.0,24.0,,631.6,,,,0.0,0.0,1,35,WR,west-virginia-mountaineers
+4,7.0,,,1.0,100.0,0.0,7,Josh Growden P,1.0,7.0,,158.8,,,,0.0,0.0,0,35,P,west-virginia-mountaineers
+5,1.0,,,2.0,100.0,0.0,7,Trey Lowe III QB,2.0,2.0,,108.4,,,,0.0,0.0,0,35,QB,west-virginia-mountaineers
+7,,,3.4,,,,30,Leddie Brown RB,,,,,,107.0,367.0,,,1,35,RB,west-virginia-mountaineers
+8,,,3.3,,,,36,Kennedy McKoy RB,,,,,,99.0,323.0,,,3,35,RB,west-virginia-mountaineers
+9,,,4.5,,,,5,Lorenzo Dorr RB,,,,,,2.0,9.0,,,0,35,RB,west-virginia-mountaineers
+10,,,2.0,,,,2,Winston Wright WR,,,,,,1.0,2.0,,,0,35,WR,west-virginia-mountaineers
+11,,,-4.0,,,,0,T.J. Simmons WR,,,,,,1.0,-4.0,,,0,35,WR,west-virginia-mountaineers
+12,,,-2.0,,,,1,Jack Allison QB,,,,,,4.0,-8.0,,,0,35,QB,west-virginia-mountaineers
+13,,,-3.7,,,,7,Jarret Doege QB,,,,,,11.0,-41.0,,,0,35,QB,west-virginia-mountaineers
+14,,,-11.4,,,,0,-,,,,,,5.0,-57.0,,,0,35,-,west-virginia-mountaineers
+16,,,2.0,,,,25,Austin Kendall QB,,,,,,45.0,91.0,,,1,35,QB,west-virginia-mountaineers
+17,,,2.7,,,,23,Martell Pettaway RB,,,,,,27.0,72.0,,,2,35,RB,west-virginia-mountaineers
+18,,,2.4,,,,6,Alec Sinkfield RB,,,,,,17.0,41.0,,,0,35,RB,west-virginia-mountaineers
+19,,,24.0,,,,24,Sean Ryan WR,,,,,,1.0,24.0,,,0,35,WR,west-virginia-mountaineers
+20,,,4.8,,,,8,Sam James WR,,,,,,4.0,19.0,,,0,35,WR,west-virginia-mountaineers
+21,,,5.0,,,,9,Tevin Bush WR,,,,,,3.0,15.0,,,0,35,WR,west-virginia-mountaineers
+22,,,3.5,,,,8,Tony Mathis RB,,,,,,4.0,14.0,,,0,35,RB,west-virginia-mountaineers
+23,,,4.0,,,,13,Trey Lowe III QB,,,,,,3.0,12.0,,,0,35,QB,west-virginia-mountaineers
+24,,9.8,,,,,51,Sam James WR,,,69.0,,677.0,,,,,2,35,WR,west-virginia-mountaineers
+25,,24.7,,,,,83,George Campbell WR,,,19.0,,469.0,,,,,7,35,WR,west-virginia-mountaineers
+26,,15.8,,,,,41,Tevin Bush WR,,,6.0,,95.0,,,,,1,35,WR,west-virginia-mountaineers
+27,,4.0,,,,,8,Mike O'Laughlin TE,,,6.0,,24.0,,,,,0,35,TE,west-virginia-mountaineers
+28,,3.6,,,,,12,Alec Sinkfield RB,,,5.0,,18.0,,,,,0,35,RB,west-virginia-mountaineers
+29,,4.5,,,,,6,Jovani Haskins TE,,,4.0,,18.0,,,,,0,35,TE,west-virginia-mountaineers
+30,,5.3,,,,,9,Tony Mathis RB,,,3.0,,16.0,,,,,1,35,RB,west-virginia-mountaineers
+31,,7.0,,,,,7,Dante Bonamico S,,,1.0,,7.0,,,,,0,35,S,west-virginia-mountaineers
+32,,3.5,,,,,8,Martell Pettaway RB,,,2.0,,7.0,,,,,0,35,RB,west-virginia-mountaineers
+33,,6.0,,,,,6,Randy Fields Jr. WR,,,1.0,,6.0,,,,,0,35,WR,west-virginia-mountaineers
+35,,13.0,,,,,44,T.J. Simmons WR,,,35.0,,455.0,,,,,4,35,WR,west-virginia-mountaineers
+36,,11.5,,,,,39,Sean Ryan WR,,,19.0,,219.0,,,,,0,35,WR,west-virginia-mountaineers
+37,,16.8,,,,,50,Bryce Wheaton WR,,,12.0,,201.0,,,,,2,35,WR,west-virginia-mountaineers
+38,,10.1,,,,,30,Ali Jennings WR,,,19.0,,192.0,,,,,1,35,WR,west-virginia-mountaineers
+39,,11.4,,,,,36,Isaiah Esdale WR,,,15.0,,171.0,,,,,1,35,WR,west-virginia-mountaineers
+40,,4.5,,,,,24,Kennedy McKoy RB,,,37.0,,167.0,,,,,1,35,RB,west-virginia-mountaineers
+41,,8.5,,,,,21,Leddie Brown RB,,,17.0,,145.0,,,,,1,35,RB,west-virginia-mountaineers
+42,,5.1,,,,,16,Winston Wright WR,,,19.0,,97.0,,,,,0,35,WR,west-virginia-mountaineers

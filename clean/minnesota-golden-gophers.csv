@@ -1,0 +1,27 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,10.2,,,210.0,66.0,7.0,73,Tanner Morgan QB,318.0,3253.0,,178.7,,,,30.0,-185.0,30,42,QB,minnesota-golden-gophers
+1,39.0,,,1.0,100.0,0.0,39,Jacob Clark QB,1.0,39.0,,427.6,,,,0.0,0.0,0,42,QB,minnesota-golden-gophers
+2,1.0,,,1.0,100.0,0.0,1,Seth Green WR,1.0,1.0,,438.4,,,,0.0,0.0,1,42,WR,minnesota-golden-gophers
+3,0.0,,,0.0,0.0,1.0,0,Cole Kramer QB,2.0,0.0,,-100.0,,,,0.0,0.0,0,42,QB,minnesota-golden-gophers
+5,,,5.1,,,,64,Rodney Smith RB,,,,,,228.0,1163.0,,,8,42,RB,minnesota-golden-gophers
+6,,,5.3,,,,36,Mohamed Ibrahim RB,,,,,,114.0,604.0,,,7,42,RB,minnesota-golden-gophers
+8,,,5.6,,,,28,Shannon Brooks RB,,,,,,73.0,408.0,,,2,42,RB,minnesota-golden-gophers
+9,,,3.4,,,,25,Seth Green WR,,,,,,29.0,99.0,,,5,42,WR,minnesota-golden-gophers
+10,,,7.3,,,,24,Treyson Potts RB,,,,,,7.0,51.0,,,1,42,RB,minnesota-golden-gophers
+11,,,2.9,,,,7,Cam Wiley RB,,,,,,11.0,32.0,,,0,42,RB,minnesota-golden-gophers
+12,,,1.4,,,,14,Bryce Williams RB,,,,,,17.0,24.0,,,1,42,RB,minnesota-golden-gophers
+13,,,7.3,,,,13,Preston Jelen RB,,,,,,3.0,22.0,,,0,42,RB,minnesota-golden-gophers
+14,,,-1.0,,,,0,Tyler Johnson WR,,,,,,1.0,-1.0,,,0,42,WR,minnesota-golden-gophers
+15,,,-0.9,,,,17,Tanner Morgan QB,,,,,,61.0,-57.0,,,1,42,QB,minnesota-golden-gophers
+16,,15.3,,,,,73,Tyler Johnson WR,,,86.0,,1318.0,,,,,13,42,WR,minnesota-golden-gophers
+17,,20.3,,,,,66,Rashod Bateman WR,,,60.0,,1219.0,,,,,11,42,WR,minnesota-golden-gophers
+18,,10.0,,,,,10,Bryce Williams RB,,,1.0,,10.0,,,,,0,42,RB,minnesota-golden-gophers
+19,,8.0,,,,,8,Seth Green WR,,,1.0,,8.0,,,,,0,42,WR,minnesota-golden-gophers
+21,,13.3,,,,,70,Chris Autman-Bell WR,,,28.0,,371.0,,,,,5,42,WR,minnesota-golden-gophers
+22,,11.2,,,,,29,Demetrius Douglas WR,,,14.0,,157.0,,,,,0,42,WR,minnesota-golden-gophers
+23,,10.0,,,,,20,Rodney Smith RB,,,7.0,,70.0,,,,,0,42,RB,minnesota-golden-gophers
+24,,12.8,,,,,24,Jake Paulson TE,,,4.0,,51.0,,,,,0,42,TE,minnesota-golden-gophers
+25,,39.0,,,,,39,Harry Van Dyne WR,,,1.0,,39.0,,,,,0,42,WR,minnesota-golden-gophers
+26,,6.3,,,,,13,Brevyn Spann-Ford TE,,,4.0,,25.0,,,,,1,42,TE,minnesota-golden-gophers
+27,,4.3,,,,,15,Mohamed Ibrahim RB,,,3.0,,13.0,,,,,0,42,RB,minnesota-golden-gophers
+28,,6.0,,,,,11,Bryce Witham TE,,,2.0,,12.0,,,,,1,42,TE,minnesota-golden-gophers

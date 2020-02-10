@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>No Sidebar - Twenty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../static/css/main.css" />
+		<noscript><link rel="stylesheet" href="../static/css/noscript.css" /></noscript>
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">UT Austin Data Bootcamp 2020 <span></br> Team: Kevin Clark, Rebekah Rowland, Amy Dach, Poonam Goel</span></a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">Home</a></li>
+							<li class="submenu">
+								<a href="#">Stats Analysis<img src="static/images/CFB.jpg" alt="" style="width:70px;height:50px;"/></a>
+								<ul>
+									<li><a href="left-sidebar.html">Team Touchdown Analysis</a></li>
+									<li class="submenu">
+										<a href="#">Player Touchdown Analysis</a>
+										<ul>
+											<li><a href="right-sidebar.html">Quaterback Stats Analysis</a></li>
+											<li><a href="no-sidebar.html">Other position Stats Analysis</a></li>
+											<li><a href="sidebar-two.html">Team/Position Stats Analysis</a></li>
+                                        </ul>
+                                    <li><a href="contact.html">Contact</a></li>    
+								</ul>
+							</li>
+							<li><a href="#" class="button primary">Sign Up</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<article id="main">
+
+					<header class="special container">
+						<span class="icon solid fa-mobile-alt"></span>
+						<h2><strong>(Team/Position Stats)-What drives touchdowns </strong></h2>
+						<p>Total yards is correlated with total touchdowns.</br>
+							Yards can be accomplished through various combinations of passing vs rushing yards, </br>
+							although passing generates more yards than rushing for top teams.
+					</p>
+						<script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+					
+
+					<script>
+						function initViz() {
+							var containerDiv = document.getElementById("vizContainer"),
+								url = "https://public.tableau.com/views/CollegeFootballPlayerStats4/TeamLogoDashboard?:display_count=y&:origin=viz_share_link"
+								options = {
+									hideTabs: true,
+									onFirstInteractive: function () {
+										console.log("Run this code when the viz has finished loading.");
+									}
+								};
+					
+							var viz = new tableau.Viz(containerDiv, url, options);
+							// Create a viz object and embed it in the container div.
+						}
+		
+					</script>
+				</header>
+
+				<body onload="initViz();">
+	
+					<div id="wrapper" class="wrapper">
+						<div id="vizContainer" style="width:1000px; height:600px;"></div>
+					</div>
+				</body>
+
+				</article>
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="icons">
+						<li><a href="#" class="icon brands circle fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands circle fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands circle fa-google-plus-g"><span class="label">Google+</span></a></li>
+						<li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="static/js/jquery.min.js"></script>
+			<script src="static/js/jquery.dropotron.min.js"></script>
+			<script src="static/js/jquery.scrolly.min.js"></script>
+			<script src="static/js/jquery.scrollgress.min.js"></script>
+			<script src="static/js/jquery.scrollex.min.js"></script>
+			<script src="static/js/browser.min.js"></script>
+			<script src="static/js/breakpoints.min.js"></script>
+			<script src="static/js/util.js"></script>
+			<script src="static/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,41 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.4,,,96.0,53.6,10.0,62,Nick Starkel QB,179.0,1152.0,,109.4,,,,3.0,-21.0,7,107,QB,arkansas-razorbacks
+1,5.4,,,65.0,47.4,2.0,49,Ben Hicks QB,137.0,738.0,,94.6,,,,10.0,-55.0,2,107,QB,arkansas-razorbacks
+2,6.4,,,14.0,45.2,1.0,38,K.J. Jefferson QB,31.0,197.0,,92.1,,,,5.0,-45.0,0,107,QB,arkansas-razorbacks
+3,4.2,,,13.0,43.3,0.0,24,Jack Lindsey QB,30.0,126.0,,111.6,,,,0.0,0.0,3,107,QB,arkansas-razorbacks
+4,3.9,,,13.0,50.0,1.0,12,John Stephen Jones QB,26.0,101.0,,100.3,,,,1.0,-7.0,2,107,QB,arkansas-razorbacks
+5,1.0,,,1.0,100.0,0.0,1,Rakeem Boyd RB,1.0,1.0,,108.4,,,,0.0,0.0,0,107,RB,arkansas-razorbacks
+6,0.0,,,0.0,0.0,0.0,0,Treylon Burks WR,1.0,0.0,,0.0,,,,0.0,0.0,0,107,WR,arkansas-razorbacks
+7,0.0,,,0.0,0.0,0.0,0,-,1.0,0.0,,0.0,,,,0.0,0.0,0,107,-,arkansas-razorbacks
+8,0.0,,,0.0,0.0,1.0,0,Sam Loy P,1.0,0.0,,-200.0,,,,0.0,0.0,0,107,P,arkansas-razorbacks
+10,,,6.2,,,,86,Rakeem Boyd RB,,,,,,184.0,1133.0,,,8,107,RB,arkansas-razorbacks
+11,,,4.0,,,,25,Devwah Whaley RB,,,,,,69.0,278.0,,,4,107,RB,arkansas-razorbacks
+12,,,0.5,,,,17,Ben Hicks QB,,,,,,21.0,10.0,,,0,107,QB,arkansas-razorbacks
+13,,,3.0,,,,3,Cheyenne O'Grady TE,,,,,,1.0,3.0,,,0,107,TE,arkansas-razorbacks
+14,,,-2.7,,,,8,Nick Starkel QB,,,,,,6.0,-16.0,,,0,107,QB,arkansas-razorbacks
+15,,,-2.7,,,,0,-,,,,,,6.0,-16.0,,,0,107,-,arkansas-razorbacks
+17,,,11.4,,,,30,Jack Lindsey QB,,,,,,7.0,80.0,,,0,107,QB,arkansas-razorbacks
+18,,,8.1,,,,29,T.J. Hammonds RB,,,,,,8.0,65.0,,,0,107,RB,arkansas-razorbacks
+19,,,1.9,,,,21,K.J. Jefferson QB,,,,,,30.0,58.0,,,2,107,QB,arkansas-razorbacks
+20,,,10.2,,,,17,De'Vion Warren WR,,,,,,5.0,51.0,,,0,107,WR,arkansas-razorbacks
+21,,,3.3,,,,15,Chase Hayden RB,,,,,,12.0,39.0,,,0,107,RB,arkansas-razorbacks
+22,,,3.9,,,,11,Treylon Burks WR,,,,,,9.0,35.0,,,0,107,WR,arkansas-razorbacks
+23,,,3.4,,,,11,A'Montae Spivey RB,,,,,,7.0,24.0,,,0,107,RB,arkansas-razorbacks
+24,,,2.0,,,,12,John Stephen Jones QB,,,,,,11.0,22.0,,,0,107,QB,arkansas-razorbacks
+25,,16.4,,,,,38,Treylon Burks WR,,,29.0,,475.0,,,,,0,107,WR,arkansas-razorbacks
+26,,12.8,,,,,62,Mike Woods WR,,,33.0,,423.0,,,,,4,107,WR,arkansas-razorbacks
+27,,13.5,,,,,14,John David White WR,,,2.0,,27.0,,,,,0,107,WR,arkansas-razorbacks
+28,,4.8,,,,,15,De'Vion Warren WR,,,4.0,,19.0,,,,,0,107,WR,arkansas-razorbacks
+29,,5.0,,,,,14,Hudson Henry TE,,,3.0,,15.0,,,,,0,107,TE,arkansas-razorbacks
+30,,3.0,,,,,6,Chase Hayden RB,,,4.0,,12.0,,,,,0,107,RB,arkansas-razorbacks
+31,,2.5,,,,,7,T.J. Hammonds RB,,,4.0,,10.0,,,,,0,107,RB,arkansas-razorbacks
+32,,2.0,,,,,2,T.Q. Jackson WR,,,1.0,,2.0,,,,,0,107,WR,arkansas-razorbacks
+33,,-8.0,,,,,0,K.J. Jefferson QB,,,1.0,,-8.0,,,,,0,107,QB,arkansas-razorbacks
+35,,13.8,,,,,49,Trey Knox WR,,,28.0,,385.0,,,,,3,107,WR,arkansas-razorbacks
+36,,11.3,,,,,62,Cheyenne O'Grady TE,,,33.0,,372.0,,,,,3,107,TE,arkansas-razorbacks
+37,,8.4,,,,,29,Rakeem Boyd RB,,,19.0,,160.0,,,,,0,107,RB,arkansas-razorbacks
+38,,11.9,,,,,30,Tyson Morris WR,,,13.0,,155.0,,,,,1,107,WR,arkansas-razorbacks
+39,,8.8,,,,,22,Devwah Whaley RB,,,16.0,,141.0,,,,,0,107,RB,arkansas-razorbacks
+40,,9.2,,,,,23,Grayson Gunter TE,,,6.0,,55.0,,,,,1,107,TE,arkansas-razorbacks
+41,,12.7,,,,,19,Koilan Jackson WR,,,3.0,,38.0,,,,,1,107,WR,arkansas-razorbacks
+42,,11.3,,,,,14,Chase Harrell TE,,,3.0,,34.0,,,,,1,107,TE,arkansas-razorbacks

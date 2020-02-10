@@ -1,0 +1,42 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,8.0,,,307.0,62.7,10.0,75,Shane Buechele QB,490.0,3929.0,,148.8,,,,17.0,-108.0,34,5,QB,smu-mustangs
+1,18.7,,,3.0,100.0,0.0,30,Terrance Gipson QB,3.0,56.0,,256.8,,,,0.0,0.0,0,5,QB,smu-mustangs
+2,15.0,,,1.0,50.0,0.0,30,Tyler Page WR,2.0,30.0,,176.0,,,,0.0,0.0,0,5,WR,smu-mustangs
+3,1.0,,,1.0,50.0,0.0,2,Ke'Mon Freeman RB,2.0,2.0,,223.4,,,,0.0,0.0,1,5,RB,smu-mustangs
+4,1.0,,,1.0,50.0,0.0,2,Ke'Mon Freeman -,2.0,2.0,,223.4,,,,0.0,0.0,1,5,-,smu-mustangs
+5,0.0,,,0.0,0.0,0.0,0,James Proche WR,2.0,0.0,,0.0,,,,0.0,0.0,0,5,WR,smu-mustangs
+6,0.0,,,1.0,33.3,1.0,0,Derek Green QB,3.0,0.0,,-33.3,,,,0.0,0.0,0,5,QB,smu-mustangs
+8,,,5.2,,,,64,Xavier Jones RB,,,,,,244.0,1276.0,,,23,5,RB,smu-mustangs
+9,,,4.2,,,,68,Ke'Mon Freeman RB,,,,,,122.0,517.0,,,5,5,RB,smu-mustangs
+10,,,2.5,,,,5,TaMerik Williams RB,,,,,,10.0,25.0,,,0,5,RB,smu-mustangs
+11,,,4.5,,,,12,James Proche WR,,,,,,4.0,18.0,,,0,5,WR,smu-mustangs
+12,,,5.5,,,,9,Kylen Granson TE,,,,,,2.0,11.0,,,0,5,TE,smu-mustangs
+13,,,3.5,,,,6,Reggie Roberson Jr. WR,,,,,,2.0,7.0,,,0,5,WR,smu-mustangs
+14,,,2.0,,,,3,CJ Sanders WR,,,,,,2.0,4.0,,,0,5,WR,smu-mustangs
+15,,,1.0,,,,1,William Brown QB,,,,,,1.0,1.0,,,0,5,QB,smu-mustangs
+16,,,0.0,,,,0,Rashee Rice WR,,,,,,1.0,0.0,,,0,5,WR,smu-mustangs
+18,,,4.2,,,,68,Ke'Mon Freeman -,,,,,,122.0,517.0,,,5,5,-,smu-mustangs
+19,,,5.8,,,,48,TJ McDaniel RB,,,,,,41.0,236.0,,,3,5,RB,smu-mustangs
+20,,,1.6,,,,28,Shane Buechele QB,,,,,,64.0,105.0,,,2,5,QB,smu-mustangs
+21,,,13.0,,,,17,Derek Green QB,,,,,,3.0,39.0,,,0,5,QB,smu-mustangs
+22,,,4.2,,,,16,Tyler Lavine RB,,,,,,9.0,38.0,,,1,5,RB,smu-mustangs
+23,,,5.3,,,,11,Terrance Gipson QB,,,,,,7.0,37.0,,,0,5,QB,smu-mustangs
+24,,,5.1,,,,16,Ulysses Bentley IV RB,,,,,,7.0,36.0,,,0,5,RB,smu-mustangs
+25,,,3.1,,,,7,Merek Pierce RB,,,,,,10.0,31.0,,,1,5,RB,smu-mustangs
+26,,11.0,,,,,52,James Proche WR,,,111.0,,1225.0,,,,,15,5,WR,smu-mustangs
+27,,18.7,,,,,75,Reggie Roberson Jr. WR,,,43.0,,803.0,,,,,6,5,WR,smu-mustangs
+28,,10.3,,,,,23,TJ McDaniel RB,,,3.0,,31.0,,,,,0,5,RB,smu-mustangs
+29,,30.0,,,,,30,Ulysses Bentley IV RB,,,1.0,,30.0,,,,,0,5,RB,smu-mustangs
+30,,7.5,,,,,20,Ryan Becker TE,,,4.0,,30.0,,,,,1,5,TE,smu-mustangs
+31,,6.8,,,,,12,Judah Bell WR,,,4.0,,27.0,,,,,0,5,WR,smu-mustangs
+32,,13.0,,,,,13,Calvin Wiggins WR,,,1.0,,13.0,,,,,0,5,WR,smu-mustangs
+33,,5.0,,,,,5,TaMerik Williams RB,,,1.0,,5.0,,,,,0,5,RB,smu-mustangs
+34,,1.0,,,,,1,Tyler Lavine RB,,,1.0,,1.0,,,,,0,5,RB,smu-mustangs
+36,,16.8,,,,,58,Kylen Granson TE,,,43.0,,721.0,,,,,9,5,TE,smu-mustangs
+37,,16.1,,,,,61,Rashee Rice WR,,,25.0,,403.0,,,,,1,5,WR,smu-mustangs
+38,,9.6,,,,,43,Myron Gailliard WR,,,26.0,,250.0,,,,,1,5,WR,smu-mustangs
+39,,15.2,,,,,40,Tyler Page WR,,,13.0,,198.0,,,,,0,5,WR,smu-mustangs
+40,,13.9,,,,,33,CJ Sanders WR,,,11.0,,153.0,,,,,0,5,WR,smu-mustangs
+41,,4.5,,,,,12,Xavier Jones RB,,,20.0,,90.0,,,,,2,5,RB,smu-mustangs
+42,,6.2,,,,,14,Ke'Mon Freeman RB,,,6.0,,37.0,,,,,0,5,RB,smu-mustangs
+43,,6.2,,,,,14,Ke'Mon Freeman -,,,6.0,,37.0,,,,,0,5,-,smu-mustangs

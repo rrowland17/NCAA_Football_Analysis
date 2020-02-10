@@ -1,0 +1,35 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.9,,,266.0,66.3,11.0,80,Mike Glass III QB,401.0,3169.0,,147.0,,,,14.0,-82.0,24,75,QB,eastern-michigan-eagles
+1,8.1,,,43.0,75.4,1.0,38,Preston Hutchinson QB,57.0,462.0,,157.4,,,,8.0,-48.0,3,75,QB,eastern-michigan-eagles
+2,10.0,,,4.0,80.0,0.0,34,Jairus Grissom QB,5.0,50.0,,164.0,,,,0.0,0.0,0,75,QB,eastern-michigan-eagles
+3,0.0,,,0.0,0.0,0.0,0,Line Latu WR,1.0,0.0,,0.0,,,,0.0,0.0,0,75,WR,eastern-michigan-eagles
+5,,,4.8,,,,35,Shaq Vann RB,,,,,,149.0,715.0,,,8,75,RB,eastern-michigan-eagles
+6,,,3.6,,,,44,Mike Glass III QB,,,,,,118.0,428.0,,,8,75,QB,eastern-michigan-eagles
+7,,,6.0,,,,6,Eddie Daugherty WR,,,,,,1.0,6.0,,,0,75,WR,eastern-michigan-eagles
+8,,,2.5,,,,4,Darius Boone RB,,,,,,2.0,5.0,,,0,75,RB,eastern-michigan-eagles
+9,,,-0.5,,,,5,Hassan Beydoun WR,,,,,,2.0,-1.0,,,0,75,WR,eastern-michigan-eagles
+10,,,-6.0,,,,0,Jake Julien P,,,,,,2.0,-12.0,,,0,75,P,eastern-michigan-eagles
+11,,,-0.6000000000000001,,,,6,Preston Hutchinson QB,,,,,,24.0,-14.0,,,2,75,QB,eastern-michigan-eagles
+13,,,7.8,,,,47,Jairus Grissom QB,,,,,,20.0,156.0,,,1,75,QB,eastern-michigan-eagles
+14,,,3.7,,,,22,Willie Parker RB,,,,,,38.0,142.0,,,2,75,RB,eastern-michigan-eagles
+15,,,2.8,,,,13,Breck Turner RB,,,,,,36.0,102.0,,,0,75,RB,eastern-michigan-eagles
+16,,,5.8,,,,11,Dylan Drummond WR,,,,,,4.0,23.0,,,0,75,WR,eastern-michigan-eagles
+17,,,3.2,,,,10,Line Latu WR,,,,,,6.0,19.0,,,0,75,WR,eastern-michigan-eagles
+18,,,2.8,,,,6,Mathew Sexton WR,,,,,,5.0,14.0,,,0,75,WR,eastern-michigan-eagles
+19,,,11.0,,,,11,Brody Hoying DB,,,,,,1.0,11.0,,,0,75,DB,eastern-michigan-eagles
+20,,,2.3,,,,4,Karmi Mackey RB,,,,,,3.0,7.0,,,0,75,RB,eastern-michigan-eagles
+21,,15.9,,,,,54,Arthur Jackson III WR,,,46.0,,732.0,,,,,7,75,WR,eastern-michigan-eagles
+22,,12.7,,,,,50,Quian Williams WR,,,52.0,,661.0,,,,,6,75,WR,eastern-michigan-eagles
+23,,15.3,,,,,22,Bryce Kemp TE,,,3.0,,46.0,,,,,0,75,TE,eastern-michigan-eagles
+24,,8.0,,,,,15,Jairus Grissom QB,,,4.0,,32.0,,,,,1,75,QB,eastern-michigan-eagles
+25,,10.7,,,,,32,Eddie Daugherty WR,,,3.0,,32.0,,,,,0,75,WR,eastern-michigan-eagles
+26,,5.3,,,,,10,Thomas Odukoya TE,,,3.0,,16.0,,,,,0,75,TE,eastern-michigan-eagles
+27,,-0.5,,,,,0,Willie Parker RB,,,2.0,,-1.0,,,,,0,75,RB,eastern-michigan-eagles
+29,,14.9,,,,,80,Mathew Sexton WR,,,34.0,,508.0,,,,,4,75,WR,eastern-michigan-eagles
+30,,9.0,,,,,27,Dylan Drummond WR,,,55.0,,493.0,,,,,3,75,WR,eastern-michigan-eagles
+31,,12.4,,,,,36,Line Latu WR,,,30.0,,373.0,,,,,3,75,WR,eastern-michigan-eagles
+32,,11.6,,,,,35,Hassan Beydoun WR,,,30.0,,349.0,,,,,1,75,WR,eastern-michigan-eagles
+33,,10.6,,,,,26,Bryson Cannon TE,,,20.0,,212.0,,,,,2,75,TE,eastern-michigan-eagles
+34,,7.1,,,,,15,Breck Turner RB,,,14.0,,100.0,,,,,0,75,RB,eastern-michigan-eagles
+35,,6.0,,,,,14,Shaq Vann RB,,,11.0,,66.0,,,,,0,75,RB,eastern-michigan-eagles
+36,,10.3,,,,,39,Gunnar Oakes TE,,,6.0,,62.0,,,,,0,75,TE,eastern-michigan-eagles

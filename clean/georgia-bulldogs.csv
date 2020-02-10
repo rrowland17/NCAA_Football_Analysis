@@ -1,0 +1,41 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.4,,,234.0,60.8,5.0,60,Jake Fromm QB,385.0,2860.0,,141.2,,,,15.0,-96.0,24,110,QB,georgia-bulldogs
+1,9.6,,,20.0,74.1,1.0,28,Stetson Bennett QB,27.0,260.0,,172.0,,,,0.0,0.0,2,110,QB,georgia-bulldogs
+2,1.0,,,1.0,50.0,0.0,2,Nathan Priestley QB,2.0,2.0,,58.4,,,,0.0,0.0,0,110,QB,georgia-bulldogs
+3,0.0,,,0.0,0.0,0.0,0,-,1.0,0.0,,0.0,,,,0.0,0.0,0,110,-,georgia-bulldogs
+5,,,6.2,,,,47,D'Andre Swift RB,,,,,,196.0,1218.0,,,7,110,RB,georgia-bulldogs
+6,,,4.8,,,,40,Brian Herrien RB,,,,,,103.0,490.0,,,6,110,RB,georgia-bulldogs
+7,,,6.0,,,,6,Jake Camarda PK,,,,,,1.0,6.0,,,0,110,PK,georgia-bulldogs
+8,,,5.0,,,,5,Prather Hudson RB,,,,,,1.0,5.0,,,0,110,RB,georgia-bulldogs
+9,,,-1.0,,,,0,Nathan Priestley QB,,,,,,1.0,-1.0,,,0,110,QB,georgia-bulldogs
+10,,,-6.0,,,,0,Matt Landers WR,,,,,,1.0,-6.0,,,0,110,WR,georgia-bulldogs
+11,,,-0.30000000000000004,,,,15,Jake Fromm QB,,,,,,38.0,-12.0,,,0,110,QB,georgia-bulldogs
+12,,,-3.0,,,,0,-,,,,,,20.0,-61.0,,,0,110,-,georgia-bulldogs
+14,,,5.2,,,,29,Zamir White RB,,,,,,78.0,408.0,,,3,110,RB,georgia-bulldogs
+15,,,6.1,,,,37,James Cook RB,,,,,,31.0,188.0,,,2,110,RB,georgia-bulldogs
+16,,,7.0,,,,62,Kenny McIntosh RB,,,,,,25.0,174.0,,,2,110,RB,georgia-bulldogs
+17,,,7.4,,,,17,Tyler Simmons WR,,,,,,12.0,89.0,,,0,110,WR,georgia-bulldogs
+18,,,8.7,,,,16,Demetris Robertson WR,,,,,,6.0,52.0,,,0,110,WR,georgia-bulldogs
+19,,,3.2,,,,7,Sevaughn Clark RB,,,,,,6.0,19.0,,,0,110,RB,georgia-bulldogs
+20,,,3.0,,,,14,Stetson Bennett QB,,,,,,4.0,12.0,,,1,110,QB,georgia-bulldogs
+21,,,5.0,,,,9,Kearis Jackson WR,,,,,,2.0,10.0,,,0,110,WR,georgia-bulldogs
+22,,14.8,,,,,46,George Pickens WR,,,49.0,,727.0,,,,,8,110,WR,georgia-bulldogs
+23,,14.4,,,,,52,Lawrence Cager WR,,,33.0,,476.0,,,,,4,110,WR,georgia-bulldogs
+24,,15.8,,,,,32,Kearis Jackson WR,,,5.0,,79.0,,,,,0,110,WR,georgia-bulldogs
+25,,8.7,,,,,20,Charlie Woerner TE,,,9.0,,78.0,,,,,1,110,TE,georgia-bulldogs
+26,,22.0,,,,,22,John FitzPatrick TE,,,1.0,,22.0,,,,,0,110,TE,georgia-bulldogs
+27,,10.0,,,,,11,Jaylen Johnson WR,,,2.0,,20.0,,,,,0,110,WR,georgia-bulldogs
+28,,10.0,,,,,15,Zamir White RB,,,2.0,,20.0,,,,,0,110,RB,georgia-bulldogs
+29,,14.0,,,,,14,Prather Hudson RB,,,1.0,,14.0,,,,,0,110,RB,georgia-bulldogs
+30,,7.0,,,,,12,Willie Erdman WR,,,2.0,,14.0,,,,,0,110,WR,georgia-bulldogs
+31,,13.0,,,,,13,Trey Blount WR,,,1.0,,13.0,,,,,0,110,WR,georgia-bulldogs
+32,,3.0,,,,,3,Kenny McIntosh RB,,,1.0,,3.0,,,,,0,110,RB,georgia-bulldogs
+33,,1.0,,,,,1,Tommy Bush WR,,,1.0,,1.0,,,,,0,110,WR,georgia-bulldogs
+34,,11.1,,,,,33,Demetris Robertson WR,,,30.0,,333.0,,,,,3,110,WR,georgia-bulldogs
+36,,17.2,,,,,60,Dominick Blaylock WR,,,18.0,,310.0,,,,,5,110,WR,georgia-bulldogs
+37,,12.1,,,,,27,Tyler Simmons WR,,,21.0,,255.0,,,,,1,110,WR,georgia-bulldogs
+38,,9.0,,,,,48,D'Andre Swift RB,,,24.0,,216.0,,,,,1,110,RB,georgia-bulldogs
+39,,14.9,,,,,47,Eli Wolf TE,,,13.0,,194.0,,,,,1,110,TE,georgia-bulldogs
+40,,8.3,,,,,19,James Cook RB,,,16.0,,132.0,,,,,0,110,RB,georgia-bulldogs
+41,,6.9,,,,,18,Brian Herrien RB,,,16.0,,110.0,,,,,1,110,RB,georgia-bulldogs
+42,,10.5,,,,,26,Matt Landers WR,,,10.0,,105.0,,,,,1,110,WR,georgia-bulldogs

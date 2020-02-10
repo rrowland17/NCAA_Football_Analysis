@@ -1,0 +1,32 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.5,,,33.0,42.9,6.0,69,Kelvin Hopkins Jr. QB,77.0,577.0,,107.4,,,,4.0,-34.0,4,64,QB,army-black-knights
+1,15.6,,,16.0,80.0,0.0,87,Jabari Laws QB,20.0,311.0,,227.1,,,,4.0,-24.0,1,64,QB,army-black-knights
+2,5.9,,,7.0,30.4,0.0,80,Christian Anderson QB,23.0,135.0,,94.1,,,,5.0,-21.0,1,64,QB,army-black-knights
+3,10.8,,,3.0,75.0,1.0,32,Jemel Jones QB,4.0,43.0,,115.3,,,,1.0,-8.0,0,64,QB,army-black-knights
+4,0.0,,,0.0,0.0,0.0,0,Zach Potter P,1.0,0.0,,0.0,,,,0.0,0.0,0,64,P,army-black-knights
+6,,,5.1,,,,63,Kelvin Hopkins Jr. QB,,,,,,138.0,710.0,,,7,64,QB,army-black-knights
+7,,,4.4,,,,38,Connor Slomka RB,,,,,,149.0,658.0,,,8,64,RB,army-black-knights
+8,,,3.5,,,,14,Jemel Jones QB,,,,,,12.0,42.0,,,1,64,QB,army-black-knights
+9,,,4.0,,,,8,Anthony Adkins RB,,,,,,9.0,36.0,,,1,64,RB,army-black-knights
+10,,,35.0,,,,35,Christian Hayes WR,,,,,,1.0,35.0,,,0,64,WR,army-black-knights
+11,,,3.2,,,,6,Rashaad Bolton RB,,,,,,10.0,32.0,,,1,64,RB,army-black-knights
+12,,,14.0,,,,20,A.J. Howard RB,,,,,,2.0,28.0,,,0,64,RB,army-black-knights
+13,,,16.0,,,,16,Jalen Moy WR,,,,,,1.0,16.0,,,1,64,WR,army-black-knights
+14,,,4.7,,,,10,Kaelin Byrd RB,,,,,,3.0,14.0,,,0,64,RB,army-black-knights
+15,,,0.30000000000000004,,,,3,Brandon Walters RB,,,,,,4.0,1.0,,,0,64,RB,army-black-knights
+17,,,4.3,,,,40,Sandon McCoy RB,,,,,,134.0,576.0,,,10,64,RB,army-black-knights
+18,,,6.4,,,,83,Jabari Laws QB,,,,,,76.0,484.0,,,4,64,QB,army-black-knights
+19,,,6.4,,,,48,Christian Anderson QB,,,,,,67.0,429.0,,,4,64,QB,army-black-knights
+20,,,6.9,,,,59,Kell Walker RB,,,,,,58.0,398.0,,,3,64,RB,army-black-knights
+21,,,5.6,,,,17,Artice Hobbs IV RB,,,,,,28.0,158.0,,,2,64,RB,army-black-knights
+22,,,5.3,,,,24,Cade Barnard RB,,,,,,18.0,95.0,,,2,64,RB,army-black-knights
+23,,,4.6,,,,10,Jakobi Buchanan RB,,,,,,19.0,88.0,,,0,64,RB,army-black-knights
+24,,,7.5,,,,28,Malik Hancock RB,,,,,,10.0,75.0,,,1,64,RB,army-black-knights
+25,,17.3,,,,,87,Camden Harrison WR,,,25.0,,433.0,,,,,3,64,WR,army-black-knights
+26,,25.8,,,,,80,Artice Hobbs IV RB,,,13.0,,335.0,,,,,1,64,RB,army-black-knights
+27,,24.0,,,,,37,Brandon Walters RB,,,4.0,,96.0,,,,,0,64,RB,army-black-knights
+28,,26.0,,,,,38,Malik Hancock RB,,,3.0,,78.0,,,,,1,64,RB,army-black-knights
+29,,8.6,,,,,15,Michael Roberts WR,,,5.0,,43.0,,,,,0,64,WR,army-black-knights
+30,,10.3,,,,,17,Kell Walker RB,,,4.0,,41.0,,,,,1,64,RB,army-black-knights
+31,,5.8,,,,,7,Kjetil Cline WR,,,4.0,,23.0,,,,,0,64,WR,army-black-knights
+32,,17.0,,,,,17,Christian Hayes WR,,,1.0,,17.0,,,,,0,64,WR,army-black-knights

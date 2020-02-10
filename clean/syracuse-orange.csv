@@ -1,0 +1,33 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.0,,,213.0,63.2,5.0,85,Tommy DeVito QB,337.0,2360.0,,137.7,,,,44.0,-264.0,19,22,QB,syracuse-orange
+1,7.7,,,36.0,52.9,2.0,94,Clayton Welch QB,68.0,523.0,,131.1,,,,5.0,-31.0,4,22,QB,syracuse-orange
+2,2.0,,,1.0,50.0,0.0,4,Taj Harris WR,2.0,4.0,,66.8,,,,0.0,0.0,0,22,WR,syracuse-orange
+3,0.0,,,0.0,0.0,0.0,0,Rex Culpepper QB,1.0,0.0,,0.0,,,,0.0,0.0,0,22,QB,syracuse-orange
+5,,,5.0,,,,45,Moe Neal RB,,,,,,170.0,846.0,,,7,22,RB,syracuse-orange
+6,,,4.4,,,,37,Jarveon Howard RB,,,,,,76.0,337.0,,,3,22,RB,syracuse-orange
+7,,,1.5,,,,5,Trishton Jackson WR,,,,,,2.0,3.0,,,0,22,WR,syracuse-orange
+8,,,3.0,,,,3,Aaron Hackett TE,,,,,,1.0,3.0,,,0,22,TE,syracuse-orange
+9,,,1.0,,,,1,Chris Elmore FB,,,,,,2.0,2.0,,,0,22,FB,syracuse-orange
+10,,,-2.0,,,,0,-,,,,,,2.0,-4.0,,,0,22,-,syracuse-orange
+11,,,-6.0,,,,0,Rex Culpepper QB,,,,,,1.0,-6.0,,,0,22,QB,syracuse-orange
+13,,,3.9,,,,20,Abdul Adams RB,,,,,,87.0,336.0,,,3,22,RB,syracuse-orange
+14,,,1.1,,,,60,Tommy DeVito QB,,,,,,112.0,122.0,,,2,22,QB,syracuse-orange
+15,,,7.0,,,,18,Jawhar Jordan RB,,,,,,15.0,105.0,,,1,22,RB,syracuse-orange
+16,,,2.9,,,,23,Clayton Welch QB,,,,,,20.0,58.0,,,0,22,QB,syracuse-orange
+17,,,12.5,,,,15,Taj Harris WR,,,,,,2.0,25.0,,,0,22,WR,syracuse-orange
+18,,,8.0,,,,8,Nykeim Johnson WR,,,,,,1.0,8.0,,,0,22,WR,syracuse-orange
+19,,,1.4,,,,8,Sean Riley WR,,,,,,5.0,7.0,,,0,22,WR,syracuse-orange
+20,,,1.2,,,,4,Markenzy Pierre RB,,,,,,5.0,6.0,,,0,22,RB,syracuse-orange
+21,,15.5,,,,,85,Trishton Jackson WR,,,66.0,,1023.0,,,,,11,22,WR,syracuse-orange
+22,,15.1,,,,,94,Taj Harris WR,,,37.0,,559.0,,,,,2,22,WR,syracuse-orange
+23,,6.7,,,,,9,Cameron Jordan WR,,,3.0,,20.0,,,,,0,22,WR,syracuse-orange
+24,,4.0,,,,,4,Tommy DeVito QB,,,1.0,,4.0,,,,,0,22,QB,syracuse-orange
+25,,3.0,,,,,3,Courtney Jackson WR,,,1.0,,3.0,,,,,0,22,WR,syracuse-orange
+27,,7.6,,,,,35,Sean Riley WR,,,36.0,,275.0,,,,,1,22,WR,syracuse-orange
+28,,8.3,,,,,50,Moe Neal RB,,,29.0,,242.0,,,,,0,22,RB,syracuse-orange
+29,,8.9,,,,,24,Aaron Hackett TE,,,23.0,,205.0,,,,,6,22,TE,syracuse-orange
+30,,22.0,,,,,70,Luke Benson TE,,,8.0,,176.0,,,,,3,22,TE,syracuse-orange
+31,,9.4,,,,,22,Abdul Adams RB,,,15.0,,141.0,,,,,0,22,RB,syracuse-orange
+32,,5.2,,,,,29,Nykeim Johnson WR,,,19.0,,99.0,,,,,0,22,WR,syracuse-orange
+33,,43.5,,,,,81,Jawhar Jordan RB,,,2.0,,87.0,,,,,0,22,RB,syracuse-orange
+34,,5.9,,,,,16,Jarveon Howard RB,,,9.0,,53.0,,,,,0,22,RB,syracuse-orange

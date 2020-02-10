@@ -1,0 +1,32 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,5.8,,,101.0,48.1,5.0,55,Devin Leary QB,210.0,1219.0,,104.7,,,,9.0,-48.0,8,19,QB,nc-state-wolfpack
+1,6.1,,,86.0,57.3,1.0,48,Matthew McKay QB,150.0,910.0,,113.6,,,,3.0,-17.0,3,19,QB,nc-state-wolfpack
+2,5.6,,,54.0,55.7,4.0,37,Bailey Hockman QB,97.0,546.0,,98.1,,,,6.0,-53.0,1,19,QB,nc-state-wolfpack
+3,14.8,,,3.0,60.0,0.0,32,Thayer Thomas WR,5.0,74.0,,316.3,,,,0.0,0.0,2,19,WR,nc-state-wolfpack
+4,0.0,,,0.0,0.0,0.0,0,Keyon Lesane WR,1.0,0.0,,0.0,,,,0.0,0.0,0,19,WR,nc-state-wolfpack
+6,,,5.5,,,,53,Zonovan Knight RB,,,,,,136.0,745.0,,,5,19,RB,nc-state-wolfpack
+7,,,5.2,,,,41,Jordan Houston RB,,,,,,101.0,526.0,,,2,19,RB,nc-state-wolfpack
+8,,,-0.5,,,,20,Bailey Hockman QB,,,,,,16.0,-8.0,,,0,19,QB,nc-state-wolfpack
+10,,,3.8,,,,16,Ricky Person Jr. RB,,,,,,61.0,229.0,,,3,19,RB,nc-state-wolfpack
+11,,,2.5,,,,21,Matthew McKay QB,,,,,,25.0,63.0,,,4,19,QB,nc-state-wolfpack
+12,,,12.0,,,,24,Keyon Lesane WR,,,,,,5.0,60.0,,,0,19,WR,nc-state-wolfpack
+13,,,4.2,,,,19,Trent Pennix RB,,,,,,13.0,55.0,,,0,19,RB,nc-state-wolfpack
+14,,,17.7,,,,34,Tabari Hines WR,,,,,,3.0,53.0,,,0,19,WR,nc-state-wolfpack
+15,,,1.1,,,,13,Devin Leary QB,,,,,,40.0,46.0,,,0,19,QB,nc-state-wolfpack
+16,,,4.1,,,,11,Will Dabbs RB,,,,,,11.0,45.0,,,0,19,RB,nc-state-wolfpack
+17,,,9.0,,,,9,Payton Wilson LB,,,,,,1.0,9.0,,,0,19,LB,nc-state-wolfpack
+18,,10.3,,,,,37,Emeka Emezie WR,,,56.0,,576.0,,,,,2,19,WR,nc-state-wolfpack
+19,,14.3,,,,,55,Devin Carter WR,,,32.0,,456.0,,,,,0,19,WR,nc-state-wolfpack
+20,,15.3,,,,,24,Max Fisher WR,,,3.0,,46.0,,,,,0,19,WR,nc-state-wolfpack
+21,,6.4,,,,,16,Zonovan Knight RB,,,7.0,,45.0,,,,,0,19,RB,nc-state-wolfpack
+22,,13.3,,,,,20,Dylan Autenrieth TE,,,3.0,,40.0,,,,,0,19,TE,nc-state-wolfpack
+23,,7.5,,,,,11,Cecil Powell DB,,,4.0,,30.0,,,,,0,19,DB,nc-state-wolfpack
+24,,-1.0,,,,,-1,Eric Collins WR,,,1.0,,-1.0,,,,,0,19,WR,nc-state-wolfpack
+26,,10.9,,,,,48,Tabari Hines WR,,,37.0,,402.0,,,,,2,19,WR,nc-state-wolfpack
+27,,15.2,,,,,39,Cary Angeline TE,,,25.0,,379.0,,,,,5,19,TE,nc-state-wolfpack
+28,,10.8,,,,,23,Thayer Thomas WR,,,31.0,,334.0,,,,,3,19,WR,nc-state-wolfpack
+29,,7.5,,,,,19,Jordan Houston RB,,,15.0,,112.0,,,,,0,19,RB,nc-state-wolfpack
+30,,12.4,,,,,45,Ricky Person Jr. RB,,,8.0,,99.0,,,,,1,19,RB,nc-state-wolfpack
+31,,7.2,,,,,19,Keyon Lesane WR,,,13.0,,93.0,,,,,0,19,WR,nc-state-wolfpack
+32,,11.4,,,,,32,Trent Pennix RB,,,7.0,,80.0,,,,,1,19,RB,nc-state-wolfpack
+33,,29.0,,,,,38,Jasiah Provillon WR,,,2.0,,58.0,,,,,0,19,WR,nc-state-wolfpack

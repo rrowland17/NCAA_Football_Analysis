@@ -1,0 +1,33 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,8.3,,,209.0,61.8,7.0,87,Patrick O'Brien QB,338.0,2803.0,,140.0,,,,23.0,-147.0,13,84,QB,colorado-state-rams
+1,8.3,,,68.0,67.3,2.0,77,Collin Hill QB,101.0,837.0,,159.1,,,,3.0,-25.0,8,84,QB,colorado-state-rams
+2,5.0,,,2.0,50.0,2.0,18,Justice McCoy QB,4.0,20.0,,-8.0,,,,1.0,-8.0,0,84,QB,colorado-state-rams
+3,0.0,,,0.0,0.0,0.0,0,-,2.0,0.0,,0.0,,,,0.0,0.0,0,84,-,colorado-state-rams
+5,,,5.8,,,,75,Marvin Kinsey Jr. RB,,,,,,121.0,703.0,,,6,84,RB,colorado-state-rams
+6,,,4.6,,,,34,Marcus McElroy RB,,,,,,80.0,370.0,,,3,84,RB,colorado-state-rams
+7,,,0.0,,,,15,Collin Hill QB,,,,,,10.0,0.0,,,1,84,QB,colorado-state-rams
+8,,,-0.30000000000000004,,,,15,Patrick O'Brien QB,,,,,,63.0,-21.0,,,2,84,QB,colorado-state-rams
+9,,,-4.4,,,,0,-,,,,,,5.0,-22.0,,,0,84,-,colorado-state-rams
+11,,,3.3,,,,14,Jaylen Thomas RB,,,,,,68.0,222.0,,,3,84,RB,colorado-state-rams
+12,,,12.6,,,,64,Dante Wright WR,,,,,,17.0,214.0,,,2,84,WR,colorado-state-rams
+13,,,4.1,,,,34,Christian Hunter RB,,,,,,24.0,99.0,,,1,84,RB,colorado-state-rams
+14,,,6.5,,,,11,EJ Scott WR,,,,,,2.0,13.0,,,0,84,WR,colorado-state-rams
+15,,,3.0,,,,3,Brenden Fulton WR,,,,,,1.0,3.0,,,0,84,WR,colorado-state-rams
+16,,,1.5,,,,11,Justice McCoy QB,,,,,,2.0,3.0,,,0,84,QB,colorado-state-rams
+17,,,1.0,,,,1,Adam Prentice FB,,,,,,1.0,1.0,,,0,84,FB,colorado-state-rams
+18,,,1.0,,,,1,Anthony Hawkins CB,,,,,,1.0,1.0,,,0,84,CB,colorado-state-rams
+19,,14.5,,,,,87,Warren Jackson WR,,,77.0,,1119.0,,,,,8,84,WR,colorado-state-rams
+20,,14.3,,,,,75,Dante Wright WR,,,56.0,,802.0,,,,,4,84,WR,colorado-state-rams
+21,,10.5,,,,,19,Nikko Hall WR,,,4.0,,42.0,,,,,0,84,WR,colorado-state-rams
+22,,4.2,,,,,7,Marcus McElroy RB,,,5.0,,21.0,,,,,0,84,RB,colorado-state-rams
+23,,8.0,,,,,10,Brenden Fulton WR,,,2.0,,16.0,,,,,0,84,WR,colorado-state-rams
+24,,16.0,,,,,16,Jadon Walker WR,,,1.0,,16.0,,,,,0,84,WR,colorado-state-rams
+25,,2.7,,,,,8,Christian Hunter RB,,,3.0,,8.0,,,,,0,84,RB,colorado-state-rams
+27,,12.4,,,,,69,Trey McBride TE,,,45.0,,560.0,,,,,4,84,TE,colorado-state-rams
+28,,14.3,,,,,65,Nate Craig-Myers WR,,,23.0,,329.0,,,,,1,84,WR,colorado-state-rams
+29,,17.0,,,,,40,EJ Scott WR,,,15.0,,255.0,,,,,1,84,WR,colorado-state-rams
+30,,13.1,,,,,77,Marvin Kinsey Jr. RB,,,16.0,,209.0,,,,,2,84,RB,colorado-state-rams
+31,,8.1,,,,,25,Jaylen Thomas RB,,,14.0,,113.0,,,,,0,84,RB,colorado-state-rams
+32,,9.0,,,,,20,Cameron Butler TE,,,8.0,,72.0,,,,,1,84,TE,colorado-state-rams
+33,,18.0,,,,,29,Ty McCullouch WR,,,3.0,,54.0,,,,,0,84,WR,colorado-state-rams
+34,,6.3,,,,,14,Adam Prentice FB,,,7.0,,44.0,,,,,0,84,FB,colorado-state-rams

@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>D3 Presentation </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../static/css/main.css" />
+		<noscript><link rel="stylesheet" href="../static/css/noscript.css" /></noscript>
+		<title>D3Times</title>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		  crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+		  crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+		  crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+		  crossorigin="anonymous">
+		<!--<link rel="stylesheet" href="../static/css/style.css">  -->
+		<link rel="stylesheet" href="../static/css/main.css" />
+		<!--<link rel="stylesheet" href="../static/css/d3Style.css"> -->
+	</head>
+	<body class="left-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">UT Austin Data Bootcamp 2020 </br>Team: Kevin Clark, Rebekah Rowland, Amy Dach, Poonam Goel</a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">Home</a></li>
+							<li class="submenu">
+								<a href="#">Stats Analysis<img src="static/images/CFB.jpg" alt="" style="width:70px;height:50px;"/></a>
+								<ul>
+									<li><a href="left-sidebar.html">Team Touchdown Analysis</a></li>
+									<li class="submenu">
+										<a href="#">Player Touchdown Analysis</a>
+										<ul>
+											<li><a href="right-sidebar.html">Quaterback Stats Analysis</a></li>
+											<li><a href="no-sidebar.html">Other position Stats Analysis</a></li>
+											<li><a href="sidebar-two.html">Team/Position Stats Analysis</a></li>
+										</ul>
+									<li><a href="contact.html">Contact</a></li>	
+								</ul>
+							</li>
+							<li><a href="#" class="button primary">Sign Up</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<article id="main">
+
+					<header class="special container">
+						<span class="icon solid fa-laptop"></span>
+						<h2>Assumption: <strong>Rushing Yards are more important than the Passing Yards Stats.</strong></h2>
+						<p>What drives team touchdowns?</br>
+							•  Total yards is correlated with total touchdowns.</br>
+							•	Yards can be accomplished through various combinations of passing vs rushing yards, although passing generates more yards than rushing for top teams.
+					</p>
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style4 container">
+							<div class="row">
+								<div class="col-xs-12 col-md-12">
+								  <h1><center> <strong>Stats to Points Comparison</strong></center></h1>
+								</div>
+							  </div>
+							  <div class="row">
+								<div class="col-xs-12  col-md-12">
+								  <div id="scatter">
+									<!-- We append our chart here. -->
+								  </div>
+								</div>
+							  </div>
+							
+						</section>
+
+				</article>
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="icons">
+						<li><a href="#" class="icon brands circle fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands circle fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands circle fa-google-plus-g"><span class="label">Google+</span></a></li>
+						<li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+					</ul>
+
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+  					<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+  					<script type="text/javascript" src="static/js/app.js"></script>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="static/js/jquery.min.js"></script>
+			<script src="static/js/jquery.dropotron.min.js"></script>
+			<script src="static/js/jquery.scrolly.min.js"></script> 
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollgress/2.0.0/scrollgress.min.js"></script>
+			<script src="static/js/jquery.scrollex.min.js"></script>
+			<script src="static/js/browser.min.js"></script>
+			<script src="static/js/breakpoints.min.js"></script>
+			<script src="static/js/util.js"></script>
+			<script src="static/js/main.js"></script>
+
+	</body>
+</html>

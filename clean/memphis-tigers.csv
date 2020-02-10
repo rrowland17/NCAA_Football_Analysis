@@ -1,0 +1,39 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,9.6,,,269.0,64.0,11.0,73,Brady White QB,420.0,4014.0,,165.0,,,,27.0,-170.0,33,3,QB,memphis-tigers
+1,7.3,,,10.0,66.7,0.0,26,Connor Adair QB,15.0,109.0,,127.7,,,,0.0,0.0,0,3,QB,memphis-tigers
+2,29.0,,,1.0,100.0,0.0,29,Adam Williams P,1.0,29.0,,343.6,,,,0.0,0.0,0,3,P,memphis-tigers
+3,12.5,,,1.0,50.0,0.0,25,Kedarian Jones WR,2.0,25.0,,155.0,,,,0.0,0.0,0,3,WR,memphis-tigers
+4,0.0,,,0.0,0.0,0.0,0,Patrick Taylor Jr. RB,1.0,0.0,,0.0,,,,0.0,0.0,0,3,RB,memphis-tigers
+5,0.0,,,0.0,0.0,0.0,0,-,2.0,0.0,,0.0,,,,0.0,0.0,0,3,-,memphis-tigers
+7,,,6.3,,,,75,Kenneth Gainwell RB,,,,,,231.0,1459.0,,,13,3,RB,memphis-tigers
+8,,,11.2,,,,78,Antonio Gibson WR,,,,,,33.0,369.0,,,4,3,WR,memphis-tigers
+9,,,5.0,,,,8,Kedarian Jones WR,,,,,,2.0,10.0,,,0,3,WR,memphis-tigers
+10,,,0.8,,,,7,Calvin Austin III WR,,,,,,4.0,3.0,,,1,3,WR,memphis-tigers
+11,,,-1.2,,,,14,Brady White QB,,,,,,61.0,-71.0,,,4,3,QB,memphis-tigers
+12,,,-5.9,,,,0,-,,,,,,15.0,-89.0,,,0,3,-,memphis-tigers
+14,,,4.5,,,,21,Patrick Taylor Jr. RB,,,,,,78.0,350.0,,,5,3,RB,memphis-tigers
+15,,,5.2,,,,72,Kylan Watkins RB,,,,,,62.0,325.0,,,3,3,RB,memphis-tigers
+16,,,3.3,,,,10,Rodrigues Clark RB,,,,,,26.0,85.0,,,1,3,RB,memphis-tigers
+17,,,5.2,,,,18,Traveon Samuel WR,,,,,,15.0,78.0,,,0,3,WR,memphis-tigers
+18,,,2.7,,,,9,Timothy Taylor RB,,,,,,11.0,30.0,,,0,3,RB,memphis-tigers
+19,,,13.0,,,,22,Connor Adair QB,,,,,,2.0,26.0,,,1,3,QB,memphis-tigers
+20,,,4.2,,,,8,Marquavius Weaver RB,,,,,,5.0,21.0,,,0,3,RB,memphis-tigers
+21,,,3.0,,,,7,Markevion Quinn QB,,,,,,6.0,18.0,,,0,3,QB,memphis-tigers
+22,,16.8,,,,,59,Damonte Coxie WR,,,76.0,,1276.0,,,,,9,3,WR,memphis-tigers
+23,,19.3,,,,,73,Antonio Gibson WR,,,38.0,,735.0,,,,,8,3,WR,memphis-tigers
+24,,4.3,,,,,8,Traveon Samuel WR,,,6.0,,26.0,,,,,0,3,WR,memphis-tigers
+25,,25.0,,,,,25,Brady White QB,,,1.0,,25.0,,,,,0,3,QB,memphis-tigers
+26,,5.3,,,,,7,Kameron Wilson TE,,,4.0,,21.0,,,,,2,3,TE,memphis-tigers
+27,,6.5,,,,,10,Timothy Taylor RB,,,2.0,,13.0,,,,,0,3,RB,memphis-tigers
+28,,6.0,,,,,9,Tyce Daniel TE,,,2.0,,12.0,,,,,1,3,TE,memphis-tigers
+29,,11.0,,,,,11,Coye' Fairman WR,,,1.0,,11.0,,,,,0,3,WR,memphis-tigers
+30,,4.5,,,,,5,Sean Dykes TE,,,2.0,,9.0,,,,,0,3,TE,memphis-tigers
+31,,7.0,,,,,7,Joseph Dorceus DL,,,1.0,,7.0,,,,,0,3,DL,memphis-tigers
+33,,12.0,,,,,68,Kenneth Gainwell RB,,,51.0,,610.0,,,,,3,3,RB,memphis-tigers
+34,,15.6,,,,,65,Kedarian Jones WR,,,39.0,,609.0,,,,,4,3,WR,memphis-tigers
+35,,16.8,,,,,58,Joey Magnifico TE,,,20.0,,335.0,,,,,2,3,TE,memphis-tigers
+36,,18.5,,,,,46,Calvin Austin III WR,,,17.0,,315.0,,,,,3,3,WR,memphis-tigers
+37,,6.5,,,,,22,Patrick Taylor Jr. RB,,,8.0,,52.0,,,,,0,3,RB,memphis-tigers
+38,,9.8,,,,,23,John Williams WR,,,5.0,,49.0,,,,,0,3,WR,memphis-tigers
+39,,8.0,,,,,24,Kylan Watkins RB,,,5.0,,40.0,,,,,1,3,RB,memphis-tigers
+40,,10.7,,,,,26,Tahj Washington WR,,,3.0,,32.0,,,,,0,3,WR,memphis-tigers

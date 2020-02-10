@@ -1,0 +1,35 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.0,,,87.0,45.1,7.0,59,James Graham QB,193.0,1164.0,,109.0,,,,17.0,-118.0,12,16,QB,georgia-tech-yellow-jackets
+1,5.1,,,21.0,56.8,1.0,33,Lucas Johnson QB,37.0,187.0,,102.7,,,,4.0,-25.0,1,16,QB,georgia-tech-yellow-jackets
+2,6.8,,,11.0,42.3,2.0,54,Tobias Oliver QB,26.0,177.0,,84.1,,,,4.0,-22.0,0,16,QB,georgia-tech-yellow-jackets
+3,41.0,,,1.0,100.0,0.0,41,Pressley Harvin III P,1.0,41.0,,774.4,,,,0.0,0.0,1,16,P,georgia-tech-yellow-jackets
+4,3.2,,,4.0,33.3,0.0,17,Jordan Yates QB,12.0,38.0,,59.9,,,,3.0,-17.0,0,16,QB,georgia-tech-yellow-jackets
+6,,,5.2,,,,48,Jordan Mason RB,,,,,,172.0,899.0,,,7,16,RB,georgia-tech-yellow-jackets
+7,,,2.9,,,,26,James Graham QB,,,,,,99.0,290.0,,,3,16,QB,georgia-tech-yellow-jackets
+8,,,0.5,,,,4,Nathan Cottrell RB,,,,,,2.0,1.0,,,0,16,RB,georgia-tech-yellow-jackets
+9,,,-3.0,,,,0,-,,,,,,9.0,-27.0,,,0,16,-,georgia-tech-yellow-jackets
+11,,,5.1,,,,39,Tobias Oliver QB,,,,,,55.0,279.0,,,2,16,QB,georgia-tech-yellow-jackets
+12,,,3.4,,,,16,Jamious Griffin RB,,,,,,37.0,125.0,,,0,16,RB,georgia-tech-yellow-jackets
+13,,,4.4,,,,20,Jerry Howard Jr. RB,,,,,,23.0,102.0,,,0,16,RB,georgia-tech-yellow-jackets
+14,,,6.5,,,,25,Dontae Smith RB,,,,,,10.0,65.0,,,0,16,RB,georgia-tech-yellow-jackets
+15,,,2.0,,,,13,Lucas Johnson QB,,,,,,22.0,43.0,,,0,16,QB,georgia-tech-yellow-jackets
+16,,,4.6,,,,17,Christian Malloy RB,,,,,,7.0,32.0,,,0,16,RB,georgia-tech-yellow-jackets
+17,,,1.6,,,,13,Jordan Yates QB,,,,,,11.0,18.0,,,0,16,QB,georgia-tech-yellow-jackets
+18,,,2.0,,,,2,Ahmarean Brown WR,,,,,,1.0,2.0,,,0,16,WR,georgia-tech-yellow-jackets
+19,,18.9,,,,,59,Ahmarean Brown WR,,,21.0,,396.0,,,,,7,16,WR,georgia-tech-yellow-jackets
+20,,13.1,,,,,39,Adonicas Sanders WR,,,19.0,,249.0,,,,,0,16,WR,georgia-tech-yellow-jackets
+21,,6.1,,,,,11,Jordan Mason RB,,,7.0,,43.0,,,,,0,16,RB,georgia-tech-yellow-jackets
+22,,6.5,,,,,10,Dontae Smith RB,,,2.0,,13.0,,,,,0,16,RB,georgia-tech-yellow-jackets
+23,,5.5,,,,,6,Jamious Griffin RB,,,2.0,,11.0,,,,,0,16,RB,georgia-tech-yellow-jackets
+24,,3.0,,,,,3,Dylan Leonard TE,,,2.0,,6.0,,,,,0,16,TE,georgia-tech-yellow-jackets
+25,,4.0,,,,,4,Peje' Harris WR,,,1.0,,4.0,,,,,0,16,WR,georgia-tech-yellow-jackets
+26,,2.0,,,,,2,Pressley Harvin III P,,,1.0,,2.0,,,,,0,16,P,georgia-tech-yellow-jackets
+27,,2.0,,,,,2,Jair Hawkins-Anderson DB,,,1.0,,2.0,,,,,0,16,DB,georgia-tech-yellow-jackets
+29,,15.0,,,,,54,Malachi Carter WR,,,16.0,,240.0,,,,,2,16,WR,georgia-tech-yellow-jackets
+30,,8.7,,,,,38,Tyler Davis TE,,,17.0,,148.0,,,,,1,16,TE,georgia-tech-yellow-jackets
+31,,19.1,,,,,33,Jalen Camp WR,,,7.0,,134.0,,,,,1,16,WR,georgia-tech-yellow-jackets
+32,,9.6,,,,,37,Tobias Oliver QB,,,11.0,,106.0,,,,,1,16,QB,georgia-tech-yellow-jackets
+33,,15.3,,,,,54,Jerry Howard Jr. RB,,,6.0,,92.0,,,,,1,16,RB,georgia-tech-yellow-jackets
+34,,20.0,,,,,41,Nathan Cottrell RB,,,3.0,,60.0,,,,,1,16,RB,georgia-tech-yellow-jackets
+35,,26.5,,,,,34,Josh Blancato WR,,,2.0,,53.0,,,,,0,16,WR,georgia-tech-yellow-jackets
+36,,8.0,,,,,13,Dylan Deveney TE,,,6.0,,48.0,,,,,0,16,TE,georgia-tech-yellow-jackets

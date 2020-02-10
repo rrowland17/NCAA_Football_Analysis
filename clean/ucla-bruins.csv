@@ -1,0 +1,25 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.5,,,216.0,59.7,12.0,94,Dorian Thompson-Robinson QB,362.0,2701.0,,134.9,,,,34.0,-302.0,21,101,QB,ucla-bruins
+1,5.7,,,44.0,68.8,0.0,30,Austin Burton QB,64.0,365.0,,121.8,,,,3.0,-14.0,1,101,QB,ucla-bruins
+3,,,4.6,,,,54,Joshua Kelley RB,,,,,,229.0,1060.0,,,12,101,RB,ucla-bruins
+4,,,3.8,,,,75,Demetric Felton RB,,,,,,86.0,331.0,,,1,101,RB,ucla-bruins
+5,,,1.7000000000000002,,,,39,Dorian Thompson-Robinson QB,,,,,,118.0,198.0,,,4,101,QB,ucla-bruins
+6,,,4.3,,,,16,Austin Burton QB,,,,,,23.0,100.0,,,1,101,QB,ucla-bruins
+7,,,4.8,,,,23,Kazmeir Allen RB,,,,,,13.0,63.0,,,0,101,RB,ucla-bruins
+8,,,3.4,,,,9,Martell Irby RB,,,,,,10.0,34.0,,,0,101,RB,ucla-bruins
+9,,,8.3,,,,15,Cole Kinder RB,,,,,,4.0,33.0,,,0,101,RB,ucla-bruins
+10,,,7.0,,,,7,Kyle Philips WR,,,,,,1.0,7.0,,,0,101,WR,ucla-bruins
+12,,11.4,,,,,39,Kyle Philips WR,,,60.0,,681.0,,,,,5,101,WR,ucla-bruins
+13,,14.6,,,,,53,Devin Asiasi TE,,,44.0,,641.0,,,,,4,101,TE,ucla-bruins
+14,,13.0,,,,,18,Mike Martinez TE,,,3.0,,39.0,,,,,0,101,TE,ucla-bruins
+15,,7.3,,,,,24,Kazmeir Allen RB,,,4.0,,29.0,,,,,0,101,RB,ucla-bruins
+16,,5.0,,,,,5,Delon Hurt WR,,,1.0,,5.0,,,,,0,101,WR,ucla-bruins
+17,,2.0,,,,,2,Matt Lynch TE,,,1.0,,2.0,,,,,1,101,TE,ucla-bruins
+19,,10.8,,,,,94,Demetric Felton RB,,,55.0,,594.0,,,,,4,101,RB,ucla-bruins
+20,,14.0,,,,,61,Chase Cota WR,,,25.0,,350.0,,,,,3,101,WR,ucla-bruins
+21,,10.6,,,,,39,Jaylen Erwin WR,,,32.0,,339.0,,,,,2,101,WR,ucla-bruins
+22,,13.1,,,,,31,Greg Dulcich TE,,,8.0,,105.0,,,,,1,101,TE,ucla-bruins
+23,,22.5,,,,,45,Ethan Fernea WR,,,4.0,,90.0,,,,,1,101,WR,ucla-bruins
+24,,10.3,,,,,21,Jordan Wilson TE,,,7.0,,72.0,,,,,0,101,TE,ucla-bruins
+25,,6.5,,,,,14,Joshua Kelley RB,,,11.0,,71.0,,,,,1,101,RB,ucla-bruins
+26,,9.6,,,,,12,Martell Irby RB,,,5.0,,48.0,,,,,0,101,RB,ucla-bruins

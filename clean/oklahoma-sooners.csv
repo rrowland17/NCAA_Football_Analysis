@@ -1,0 +1,39 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,11.3,,,237.0,69.7,8.0,74,Jalen Hurts QB,340.0,3851.0,,191.2,,,,23.0,-147.0,32,30,QB,oklahoma-sooners
+1,8.0,,,16.0,61.5,0.0,40,Tanner Mordecai QB,26.0,207.0,,153.8,,,,0.0,0.0,2,30,QB,oklahoma-sooners
+2,7.4,,,7.0,63.6,0.0,33,Spencer Rattler QB,11.0,81.0,,155.5,,,,0.0,0.0,1,30,QB,oklahoma-sooners
+3,8.3,,,2.0,66.7,1.0,21,Nick Basquine WR,3.0,25.0,,180.0,,,,0.0,0.0,1,30,WR,oklahoma-sooners
+4,0.0,,,0.0,0.0,0.0,0,-,1.0,0.0,,0.0,,,,0.0,0.0,0,30,-,oklahoma-sooners
+6,,,5.6,,,,52,Jalen Hurts QB,,,,,,233.0,1298.0,,,20,30,QB,oklahoma-sooners
+7,,,6.5,,,,48,Kennedy Brooks RB,,,,,,155.0,1011.0,,,6,30,RB,oklahoma-sooners
+8,,,4.7,,,,8,Jadon Haselwood WR,,,,,,3.0,14.0,,,0,30,WR,oklahoma-sooners
+9,,,3.5,,,,8,Jeremiah Hall FB,,,,,,2.0,7.0,,,0,30,FB,oklahoma-sooners
+10,,,-0.5,,,,0,Brayden Willis FB,,,,,,2.0,-1.0,,,0,30,FB,oklahoma-sooners
+11,,,-1.0,,,,0,Ian McIver OL,,,,,,1.0,-1.0,,,0,30,OL,oklahoma-sooners
+12,,,-2.5,,,,0,-,,,,,,13.0,-32.0,,,0,30,-,oklahoma-sooners
+14,,,8.0,,,,75,Rhamondre Stevenson RB,,,,,,64.0,515.0,,,6,30,RB,oklahoma-sooners
+15,,,7.1,,,,32,Trey Sermon RB,,,,,,54.0,385.0,,,4,30,RB,oklahoma-sooners
+16,,,6.5,,,,16,T.J. Pledger RB,,,,,,10.0,65.0,,,1,30,RB,oklahoma-sooners
+17,,,2.8,,,,6,Marcus Major RB,,,,,,10.0,28.0,,,0,30,RB,oklahoma-sooners
+18,,,7.7,,,,8,Spencer Rattler QB,,,,,,3.0,23.0,,,0,30,QB,oklahoma-sooners
+19,,,2.2,,,,21,CeeDee Lamb WR,,,,,,9.0,20.0,,,1,30,WR,oklahoma-sooners
+20,,,4.0,,,,12,Tanner Mordecai QB,,,,,,4.0,16.0,,,0,30,QB,oklahoma-sooners
+21,,,7.5,,,,18,Charleston Rambo WR,,,,,,2.0,15.0,,,0,30,WR,oklahoma-sooners
+22,,21.4,,,,,71,CeeDee Lamb WR,,,62.0,,1327.0,,,,,14,30,WR,oklahoma-sooners
+23,,17.3,,,,,74,Charleston Rambo WR,,,43.0,,743.0,,,,,5,30,WR,oklahoma-sooners
+24,,8.7,,,,,23,Rhamondre Stevenson RB,,,10.0,,87.0,,,,,0,30,RB,oklahoma-sooners
+25,,11.7,,,,,33,Trejan Bridges WR,,,7.0,,82.0,,,,,2,30,WR,oklahoma-sooners
+26,,7.9,,,,,24,Kennedy Brooks RB,,,10.0,,79.0,,,,,0,30,RB,oklahoma-sooners
+27,,15.8,,,,,24,Grant Calcaterra TE,,,5.0,,79.0,,,,,0,30,TE,oklahoma-sooners
+28,,8.9,,,,,20,Trey Sermon RB,,,8.0,,71.0,,,,,1,30,RB,oklahoma-sooners
+29,,9.4,,,,,19,Austin Stogner TE,,,7.0,,66.0,,,,,2,30,TE,oklahoma-sooners
+30,,21.0,,,,,37,Mykel Jones WR,,,2.0,,42.0,,,,,0,30,WR,oklahoma-sooners
+31,,12.5,,,,,21,Jalen Hurts QB,,,2.0,,25.0,,,,,1,30,QB,oklahoma-sooners
+33,,18.3,,,,,46,Lee Morris WR,,,18.0,,330.0,,,,,1,30,WR,oklahoma-sooners
+34,,14.5,,,,,70,Nick Basquine WR,,,19.0,,275.0,,,,,1,30,WR,oklahoma-sooners
+35,,14.3,,,,,47,Jadon Haselwood WR,,,19.0,,272.0,,,,,1,30,WR,oklahoma-sooners
+36,,10.6,,,,,30,Jeremiah Hall FB,,,16.0,,169.0,,,,,3,30,FB,oklahoma-sooners
+37,,15.3,,,,,25,Brayden Willis FB,,,11.0,,168.0,,,,,3,30,FB,oklahoma-sooners
+38,,17.0,,,,,37,Theo Wease WR,,,8.0,,136.0,,,,,2,30,WR,oklahoma-sooners
+39,,19.7,,,,,40,A.D. Miller WR,,,6.0,,118.0,,,,,0,30,WR,oklahoma-sooners
+40,,11.9,,,,,19,Drake Stoops WR,,,8.0,,95.0,,,,,0,30,WR,oklahoma-sooners

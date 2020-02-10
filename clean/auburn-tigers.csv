@@ -1,0 +1,40 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.7,,,217.0,57.6,6.0,78,Bo Nix QB,377.0,2542.0,,125.0,,,,17.0,-129.0,16,108,QB,auburn-tigers
+1,12.0,,,5.0,71.4,0.0,37,Cord Sandberg QB,7.0,84.0,,266.5,,,,0.0,0.0,2,108,QB,auburn-tigers
+2,7.7,,,5.0,71.4,0.0,17,Joey Gatewood QB,7.0,54.0,,230.5,,,,1.0,-7.0,2,108,QB,auburn-tigers
+3,8.5,,,2.0,100.0,0.0,13,Wil Appleton QB,2.0,17.0,,171.4,,,,0.0,0.0,0,108,QB,auburn-tigers
+4,0.0,,,0.0,0.0,0.0,0,Arryn Siposs P,1.0,0.0,,0.0,,,,0.0,0.0,0,108,P,auburn-tigers
+6,,,4.9,,,,39,JaTarvious Whitlow RB,,,,,,156.0,763.0,,,10,108,RB,auburn-tigers
+7,,,4.8,,,,70,D.J. Williams RB,,,,,,84.0,400.0,,,2,108,RB,auburn-tigers
+8,,,5.0,,,,15,Cord Sandberg QB,,,,,,7.0,35.0,,,0,108,QB,auburn-tigers
+9,,,15.0,,,,17,Jashawn Sheffield WR,,,,,,2.0,30.0,,,0,108,WR,auburn-tigers
+10,,,4.5,,,,7,Matthew Hill WR,,,,,,2.0,9.0,,,0,108,WR,auburn-tigers
+11,,,2.0,,,,2,Spencer Nigh FB,,,,,,1.0,2.0,,,0,108,FB,auburn-tigers
+13,,,5.5,,,,52,Kam Martin RB,,,,,,61.0,333.0,,,2,108,RB,auburn-tigers
+14,,,3.2,,,,30,Bo Nix QB,,,,,,97.0,313.0,,,7,108,QB,auburn-tigers
+15,,,5.2,,,,27,Shaun Shivers RB,,,,,,55.0,286.0,,,3,108,RB,auburn-tigers
+16,,,5.1,,,,18,Joey Gatewood QB,,,,,,29.0,148.0,,,3,108,QB,auburn-tigers
+17,,,10.7,,,,57,Anthony Schwartz WR,,,,,,11.0,118.0,,,2,108,WR,auburn-tigers
+18,,,7.8,,,,32,Harold Joiner RB,,,,,,12.0,94.0,,,1,108,RB,auburn-tigers
+19,,,8.1,,,,36,Eli Stove WR,,,,,,7.0,57.0,,,1,108,WR,auburn-tigers
+20,,,3.5,,,,8,Malik Miller RB,,,,,,12.0,42.0,,,0,108,RB,auburn-tigers
+21,,14.1,,,,,48,Seth Williams WR,,,59.0,,830.0,,,,,8,108,WR,auburn-tigers
+22,,10.7,,,,,50,Anthony Schwartz WR,,,41.0,,440.0,,,,,1,108,WR,auburn-tigers
+23,,13.7,,,,,27,Zach Farrar WR,,,3.0,,41.0,,,,,2,108,WR,auburn-tigers
+24,,37.0,,,,,37,Marquis McClain WR,,,1.0,,37.0,,,,,0,108,WR,auburn-tigers
+25,,16.5,,,,,24,Spencer Nigh FB,,,2.0,,33.0,,,,,0,108,FB,auburn-tigers
+26,,6.4,,,,,15,D.J. Williams RB,,,5.0,,32.0,,,,,0,108,RB,auburn-tigers
+27,,15.5,,,,,25,Shedrick Jackson WR,,,2.0,,31.0,,,,,0,108,WR,auburn-tigers
+28,,7.0,,,,,10,Kam Martin RB,,,3.0,,21.0,,,,,0,108,RB,auburn-tigers
+29,,7.0,,,,,9,John Samuel Shenker TE,,,3.0,,21.0,,,,,1,108,TE,auburn-tigers
+30,,13.0,,,,,13,Pace Ozmint WR,,,1.0,,13.0,,,,,0,108,WR,auburn-tigers
+31,,4.0,,,,,4,Jackson McFadden WR,,,1.0,,4.0,,,,,0,108,WR,auburn-tigers
+32,,0.30000000000000004,,,,,3,Shaun Shivers RB,,,4.0,,1.0,,,,,0,108,RB,auburn-tigers
+33,,8.7,,,,,49,Eli Stove WR,,,37.0,,321.0,,,,,3,108,WR,auburn-tigers
+35,,11.7,,,,,38,Will Hastings WR,,,19.0,,222.0,,,,,1,108,WR,auburn-tigers
+36,,18.8,,,,,37,Sal Cannella WR,,,10.0,,188.0,,,,,2,108,WR,auburn-tigers
+37,,9.5,,,,,31,Jay Jay Wilson RB,,,14.0,,133.0,,,,,1,108,RB,auburn-tigers
+38,,21.3,,,,,78,Harold Joiner RB,,,6.0,,128.0,,,,,1,108,RB,auburn-tigers
+39,,17.7,,,,,36,JaTarvious Whitlow RB,,,6.0,,106.0,,,,,0,108,RB,auburn-tigers
+40,,12.3,,,,,12,Malik Miller RB,,,4.0,,49.0,,,,,0,108,RB,auburn-tigers
+41,,5.8,,,,,13,Matthew Hill WR,,,8.0,,46.0,,,,,0,108,WR,auburn-tigers

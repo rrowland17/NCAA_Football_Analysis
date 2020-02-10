@@ -1,0 +1,35 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,8.6,,,137.0,62.6,6.0,76,Hank Bachmeier QB,219.0,1879.0,,142.7,,,,15.0,-93.0,9,83,QB,boise-state-broncos
+1,7.6,,,89.0,62.2,2.0,51,Jaylon Henderson QB,143.0,1080.0,,150.6,,,,6.0,-53.0,12,83,QB,boise-state-broncos
+2,7.1,,,57.0,60.0,3.0,44,Chase Cord QB,95.0,670.0,,144.2,,,,6.0,-21.0,9,83,QB,boise-state-broncos
+3,10.5,,,1.0,50.0,0.0,21,CT Thomas WR,2.0,21.0,,138.2,,,,0.0,0.0,0,83,WR,boise-state-broncos
+4,5.0,,,2.0,100.0,0.0,8,Khalil Shakir WR,2.0,10.0,,307.0,,,,0.0,0.0,1,83,WR,boise-state-broncos
+5,2.0,,,1.0,50.0,0.0,4,John Hightower WR,2.0,4.0,,66.8,,,,0.0,0.0,0,83,WR,boise-state-broncos
+6,0.0,,,0.0,0.0,0.0,0,- Team ATH,1.0,0.0,,0.0,,,,0.0,0.0,0,83,ATH,boise-state-broncos
+8,,,5.3,,,,50,George Holani RB,,,,,,192.0,1014.0,,,7,83,RB,boise-state-broncos
+9,,,4.8,,,,28,Robert Mahone RB,,,,,,89.0,425.0,,,6,83,RB,boise-state-broncos
+10,,,11.0,,,,12,CT Thomas WR,,,,,,2.0,22.0,,,1,83,WR,boise-state-broncos
+11,,,17.0,,,,17,Octavius Evans WR,,,,,,1.0,17.0,,,1,83,WR,boise-state-broncos
+12,,,2.0,,,,2,Garrett Collingham TE,,,,,,2.0,4.0,,,1,83,TE,boise-state-broncos
+13,,,3.0,,,,3,Ezra Cleveland OL,,,,,,1.0,3.0,,,0,83,OL,boise-state-broncos
+14,,,-2.2,,,,0,- Team ATH,,,,,,17.0,-38.0,,,0,83,ATH,boise-state-broncos
+16,,,4.3,,,,32,Andrew Van Buren RB,,,,,,62.0,265.0,,,2,83,RB,boise-state-broncos
+17,,,3.4,,,,23,Jaylon Henderson QB,,,,,,46.0,156.0,,,2,83,QB,boise-state-broncos
+18,,,9.6,,,,35,John Hightower WR,,,,,,16.0,154.0,,,0,83,WR,boise-state-broncos
+19,,,4.0,,,,29,Chase Cord QB,,,,,,25.0,100.0,,,2,83,QB,boise-state-broncos
+20,,,1.7000000000000002,,,,18,Hank Bachmeier QB,,,,,,41.0,69.0,,,1,83,QB,boise-state-broncos
+21,,,3.5,,,,14,Khalil Shakir WR,,,,,,19.0,66.0,,,3,83,WR,boise-state-broncos
+22,,,6.8,,,,23,Akilian Butler WR,,,,,,8.0,54.0,,,1,83,WR,boise-state-broncos
+23,,,3.9,,,,16,Danny Smith RB,,,,,,8.0,31.0,,,0,83,RB,boise-state-broncos
+24,,18.5,,,,,76,John Hightower WR,,,51.0,,943.0,,,,,8,83,WR,boise-state-broncos
+25,,13.8,,,,,50,Khalil Shakir WR,,,63.0,,872.0,,,,,6,83,WR,boise-state-broncos
+26,,5.9,,,,,12,Andrew Van Buren RB,,,8.0,,47.0,,,,,1,83,RB,boise-state-broncos
+27,,7.0,,,,,14,Matt Pistone TE,,,4.0,,28.0,,,,,0,83,TE,boise-state-broncos
+29,,12.7,,,,,36,CT Thomas WR,,,41.0,,522.0,,,,,5,83,WR,boise-state-broncos
+30,,11.3,,,,,25,Akilian Butler WR,,,28.0,,316.0,,,,,2,83,WR,boise-state-broncos
+31,,12.4,,,,,28,John Bates TE,,,22.0,,273.0,,,,,1,83,TE,boise-state-broncos
+32,,11.1,,,,,32,Octavius Evans WR,,,19.0,,211.0,,,,,1,83,WR,boise-state-broncos
+33,,7.9,,,,,25,George Holani RB,,,26.0,,206.0,,,,,3,83,RB,boise-state-broncos
+34,,8.7,,,,,24,Garrett Collingham TE,,,13.0,,113.0,,,,,3,83,TE,boise-state-broncos
+35,,8.4,,,,,27,Robert Mahone RB,,,9.0,,76.0,,,,,0,83,RB,boise-state-broncos
+36,,19.0,,,,,44,Stefan Cobbs WR,,,3.0,,57.0,,,,,1,83,WR,boise-state-broncos

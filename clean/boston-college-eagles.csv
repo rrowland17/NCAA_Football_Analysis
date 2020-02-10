@@ -1,0 +1,36 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,9.1,,,81.0,59.1,2.0,72,Anthony Brown QB,137.0,1250.0,,154.5,,,,2.0,-12.0,9,12,QB,boston-college-eagles
+1,6.3,,,75.0,48.4,3.0,64,Dennis Grosel QB,155.0,983.0,,117.0,,,,10.0,-82.0,9,12,QB,boston-college-eagles
+2,3.9,,,3.0,42.9,0.0,18,Matt Valecce QB,7.0,27.0,,75.3,,,,1.0,-1.0,0,12,QB,boston-college-eagles
+3,16.0,,,1.0,100.0,0.0,16,David Bailey RB,1.0,16.0,,564.4,,,,0.0,0.0,1,12,RB,boston-college-eagles
+4,12.0,,,1.0,100.0,0.0,12,CJ Lewis WR,1.0,12.0,,530.8,,,,0.0,0.0,1,12,WR,boston-college-eagles
+5,0.0,,,0.0,0.0,1.0,0,Kobay White WR,1.0,0.0,,-200.0,,,,0.0,0.0,0,12,WR,boston-college-eagles
+6,0.0,,,0.0,0.0,0.0,0,Zay Flowers WR,1.0,0.0,,0.0,,,,0.0,0.0,0,12,WR,boston-college-eagles
+8,,,5.3,,,,61,AJ Dillon RB,,,,,,318.0,1685.0,,,14,12,RB,boston-college-eagles
+9,,,5.7,,,,74,David Bailey RB,,,,,,148.0,844.0,,,7,12,RB,boston-college-eagles
+10,,,3.0,,,,8,Peter Stehr RB,,,,,,3.0,9.0,,,0,12,RB,boston-college-eagles
+11,,,-2.5,,,,0,Matt Valecce QB,,,,,,2.0,-5.0,,,0,12,QB,boston-college-eagles
+13,,,3.7,,,,24,Dennis Grosel QB,,,,,,57.0,209.0,,,2,12,QB,boston-college-eagles
+14,,,7.2,,,,46,Zay Flowers WR,,,,,,27.0,195.0,,,1,12,WR,boston-college-eagles
+15,,,3.9,,,,28,Anthony Brown QB,,,,,,33.0,128.0,,,2,12,QB,boston-college-eagles
+16,,,3.7,,,,37,Travis Levy RB,,,,,,28.0,103.0,,,1,12,RB,boston-college-eagles
+17,,,4.1,,,,30,Pat Garwo III RB,,,,,,18.0,73.0,,,0,12,RB,boston-college-eagles
+18,,,4.5,,,,9,Ben Glines RB,,,,,,6.0,27.0,,,0,12,RB,boston-college-eagles
+19,,,6.3,,,,19,Andrew Strader RB,,,,,,4.0,25.0,,,0,12,RB,boston-college-eagles
+20,,,4.8,,,,8,Kobay White WR,,,,,,4.0,19.0,,,0,12,WR,boston-college-eagles
+21,,18.2,,,,,72,Hunter Long TE,,,28.0,,509.0,,,,,2,12,TE,boston-college-eagles
+22,,15.9,,,,,64,Kobay White WR,,,29.0,,460.0,,,,,5,12,WR,boston-college-eagles
+23,,11.7,,,,,18,Elijah Robinson WR,,,3.0,,35.0,,,,,0,12,WR,boston-college-eagles
+24,,30.0,,,,,18,Anthony Brown QB,,,1.0,,30.0,,,,,1,12,QB,boston-college-eagles
+25,,6.5,,,,,9,CJ Lewis WR,,,2.0,,13.0,,,,,0,12,WR,boston-college-eagles
+26,,6.0,,,,,9,Travis Levy RB,,,2.0,,12.0,,,,,0,12,RB,boston-college-eagles
+27,,2.7,,,,,4,Pat Garwo III RB,,,3.0,,8.0,,,,,0,12,RB,boston-college-eagles
+28,,4.0,,,,,4,Isaiah Miranda TE,,,1.0,,4.0,,,,,1,12,TE,boston-college-eagles
+30,,15.5,,,,,58,Zay Flowers WR,,,22.0,,341.0,,,,,3,12,WR,boston-college-eagles
+31,,14.1,,,,,55,Jake Burt TE,,,15.0,,212.0,,,,,1,12,TE,boston-college-eagles
+32,,15.0,,,,,42,AJ Dillon RB,,,13.0,,195.0,,,,,1,12,RB,boston-college-eagles
+33,,11.7,,,,,26,Korab Idrizi TE,,,14.0,,164.0,,,,,4,12,TE,boston-college-eagles
+34,,9.7,,,,,24,Ben Glines RB,,,10.0,,97.0,,,,,0,12,RB,boston-college-eagles
+35,,9.4,,,,,27,David Bailey RB,,,10.0,,94.0,,,,,1,12,RB,boston-college-eagles
+36,,11.6,,,,,16,Chris Garrison TE,,,5.0,,58.0,,,,,1,12,TE,boston-college-eagles
+37,,18.7,,,,,28,Ethon Williams WR,,,3.0,,56.0,,,,,0,12,WR,boston-college-eagles

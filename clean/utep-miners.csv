@@ -1,0 +1,28 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.3,,,103.0,56.9,5.0,54,Kai Locksley QB,181.0,1329.0,,124.0,,,,23.0,-180.0,6,61,QB,utep-miners
+1,7.2,,,47.0,54.0,3.0,80,Brandon Jones QB,87.0,628.0,,115.3,,,,10.0,-65.0,2,61,QB,utep-miners
+2,5.5,,,27.0,44.3,0.0,36,Gavin Hardison QB,61.0,335.0,,95.8,,,,2.0,-17.0,1,61,QB,utep-miners
+4,,,4.1,,,,42,Treyvon Hughes RB,,,,,,167.0,682.0,,,12,61,RB,utep-miners
+5,,,4.2,,,,63,Kai Locksley QB,,,,,,126.0,535.0,,,5,61,QB,utep-miners
+6,,,-0.5,,,,9,Gavin Hardison QB,,,,,,14.0,-7.0,,,0,61,QB,utep-miners
+8,,,5.3,,,,30,Josh Fields RB,,,,,,59.0,312.0,,,0,61,RB,utep-miners
+9,,,1.4,,,,23,Brandon Jones QB,,,,,,38.0,53.0,,,1,61,QB,utep-miners
+10,,,4.0,,,,11,Reynaldo Flores RB,,,,,,11.0,44.0,,,0,61,RB,utep-miners
+11,,,4.6,,,,21,Deion Hankins RB,,,,,,9.0,41.0,,,0,61,RB,utep-miners
+12,,,10.7,,,,17,Kavika Johnson WR,,,,,,3.0,32.0,,,0,61,WR,utep-miners
+13,,,26.0,,,,26,Mitchell Crawford P,,,,,,1.0,26.0,,,0,61,P,utep-miners
+14,,,7.0,,,,18,Tre'Shon Wolf WR,,,,,,3.0,21.0,,,0,61,WR,utep-miners
+15,,,2.0,,,,2,Forest McKee FB,,,,,,1.0,2.0,,,0,61,FB,utep-miners
+16,,17.7,,,,,54,Jacob Cowing WR,,,31.0,,550.0,,,,,3,61,WR,utep-miners
+17,,11.1,,,,,35,Justin Garrett WR,,,40.0,,446.0,,,,,3,61,WR,utep-miners
+18,,15.5,,,,,29,Trent Thompson TE,,,2.0,,31.0,,,,,0,61,TE,utep-miners
+19,,1.4,,,,,9,Josh Fields RB,,,5.0,,7.0,,,,,0,61,RB,utep-miners
+20,,2.0,,,,,2,Treyvon Hughes RB,,,1.0,,2.0,,,,,0,61,RB,utep-miners
+22,,12.7,,,,,80,Tre'Shon Wolf WR,,,34.0,,433.0,,,,,2,61,WR,utep-miners
+23,,14.1,,,,,32,Alan Busey WR,,,17.0,,239.0,,,,,1,61,WR,utep-miners
+24,,13.6,,,,,37,Jess Trussell TE,,,13.0,,177.0,,,,,0,61,TE,utep-miners
+25,,14.7,,,,,35,Devaughn Cooper WR,,,10.0,,147.0,,,,,0,61,WR,utep-miners
+26,,7.2,,,,,17,Kavika Johnson WR,,,11.0,,79.0,,,,,0,61,WR,utep-miners
+27,,13.0,,,,,20,Walter Dawn Jr. WR,,,6.0,,78.0,,,,,0,61,WR,utep-miners
+28,,12.6,,,,,29,Reynaldo Flores RB,,,5.0,,63.0,,,,,0,61,RB,utep-miners
+29,,40.0,,,,,40,Forest McKee FB,,,1.0,,40.0,,,,,0,61,FB,utep-miners

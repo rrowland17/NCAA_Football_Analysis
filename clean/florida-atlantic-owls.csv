@@ -1,0 +1,39 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.9,,,291.0,61.8,6.0,75,Chris Robison QB,471.0,3701.0,,144.9,,,,25.0,-203.0,28,51,QB,florida-atlantic-owls
+1,8.2,,,17.0,77.3,1.0,32,Nick Tronti QB,22.0,180.0,,166.9,,,,2.0,-10.0,2,51,QB,florida-atlantic-owls
+2,20.5,,,1.0,50.0,0.0,41,Brandon Robinson WR,2.0,41.0,,222.2,,,,0.0,0.0,0,51,WR,florida-atlantic-owls
+3,6.0,,,3.0,60.0,1.0,17,Justin Agner QB,5.0,30.0,,70.4,,,,1.0,-5.0,0,51,QB,florida-atlantic-owls
+4,6.0,,,1.0,100.0,0.0,6,Trent Wessel QB,1.0,6.0,,150.4,,,,0.0,0.0,0,51,QB,florida-atlantic-owls
+5,-2.0,,,1.0,100.0,0.0,0,James Charles RB,1.0,-2.0,,83.2,,,,0.0,0.0,0,51,RB,florida-atlantic-owls
+7,,,7.0,,,,57,Malcolm Davidson RB,,,,,,102.0,711.0,,,9,51,RB,florida-atlantic-owls
+8,,,5.3,,,,26,James Charles RB,,,,,,78.0,413.0,,,5,51,RB,florida-atlantic-owls
+9,,,4.3,,,,11,Willie Wright WR,,,,,,4.0,17.0,,,0,51,WR,florida-atlantic-owls
+10,,,8.0,,,,8,Matthew Hayball P,,,,,,1.0,8.0,,,0,51,P,florida-atlantic-owls
+11,,,-1.5,,,,0,Trent Wessel QB,,,,,,2.0,-3.0,,,0,51,QB,florida-atlantic-owls
+12,,,-1.5,,,,2,Justin Agner QB,,,,,,2.0,-3.0,,,0,51,QB,florida-atlantic-owls
+13,,,-5.4,,,,0,- Team -,,,,,,5.0,-27.0,,,0,51,-,florida-atlantic-owls
+14,,,-0.7000000000000001,,,,14,Chris Robison QB,,,,,,84.0,-60.0,,,2,51,QB,florida-atlantic-owls
+16,,,3.6,,,,20,Larry McCammon III RB,,,,,,91.0,324.0,,,7,51,RB,florida-atlantic-owls
+17,,,4.7,,,,35,Nick Tronti QB,,,,,,51.0,239.0,,,2,51,QB,florida-atlantic-owls
+18,,,4.6,,,,40,BJ Emmons RB,,,,,,51.0,237.0,,,6,51,RB,florida-atlantic-owls
+19,,,5.8,,,,24,Chauncey Mason RB,,,,,,32.0,186.0,,,0,51,RB,florida-atlantic-owls
+20,,,18.3,,,,66,Deangelo Antoine WR,,,,,,8.0,146.0,,,1,51,WR,florida-atlantic-owls
+21,,,3.3,,,,21,Daniel Leconte RB,,,,,,26.0,87.0,,,0,51,RB,florida-atlantic-owls
+22,,,3.4,,,,17,Kelvin Dean Jr. RB,,,,,,8.0,27.0,,,0,51,RB,florida-atlantic-owls
+23,,,3.7,,,,13,Tyrek Tisdale RB,,,,,,6.0,22.0,,,0,51,RB,florida-atlantic-owls
+24,,15.4,,,,,57,Harrison Bryant TE,,,65.0,,1004.0,,,,,7,51,TE,florida-atlantic-owls
+25,,12.6,,,,,75,Deangelo Antoine WR,,,61.0,,771.0,,,,,5,51,WR,florida-atlantic-owls
+26,,5.6,,,,,17,Dante Cousart WR,,,12.0,,67.0,,,,,0,51,WR,florida-atlantic-owls
+27,,11.5,,,,,30,Malcolm Davidson RB,,,4.0,,46.0,,,,,0,51,RB,florida-atlantic-owls
+28,,7.7,,,,,19,James Charles RB,,,6.0,,46.0,,,,,0,51,RB,florida-atlantic-owls
+29,,41.0,,,,,41,Nick Tronti QB,,,1.0,,41.0,,,,,0,51,QB,florida-atlantic-owls
+30,,23.0,,,,,23,Javion Posey QB,,,1.0,,23.0,,,,,1,51,QB,florida-atlantic-owls
+31,,3.7,,,,,11,BJ Emmons RB,,,3.0,,11.0,,,,,0,51,RB,florida-atlantic-owls
+33,,15.8,,,,,48,Tavaris Harrison WR,,,33.0,,523.0,,,,,2,51,WR,florida-atlantic-owls
+34,,12.8,,,,,47,John Mitchell WR,,,38.0,,488.0,,,,,5,51,WR,florida-atlantic-owls
+35,,9.0,,,,,61,John Raine TE,,,38.0,,343.0,,,,,6,51,TE,florida-atlantic-owls
+36,,9.3,,,,,51,Willie Wright WR,,,20.0,,186.0,,,,,2,51,WR,florida-atlantic-owls
+37,,17.4,,,,,32,Brandon Robinson WR,,,7.0,,122.0,,,,,1,51,WR,florida-atlantic-owls
+38,,19.8,,,,,29,James Brunson WR,,,6.0,,119.0,,,,,0,51,WR,florida-atlantic-owls
+39,,6.8,,,,,16,Larry McCammon III RB,,,13.0,,88.0,,,,,0,51,RB,florida-atlantic-owls
+40,,13.0,,,,,26,Chauncey Mason RB,,,6.0,,78.0,,,,,1,51,RB,florida-atlantic-owls

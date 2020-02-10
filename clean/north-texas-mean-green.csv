@@ -1,0 +1,32 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.5,,,257.0,62.1,9.0,68,Mason Fine QB,414.0,3088.0,,143.5,,,,26.0,-178.0,29,56,QB,north-texas-mean-green
+1,5.0,,,22.0,62.9,3.0,24,Jason Bean QB,35.0,176.0,,116.2,,,,0.0,0.0,3,56,QB,north-texas-mean-green
+2,27.2,,,4.0,80.0,0.0,74,Austin Aune QB,5.0,136.0,,374.5,,,,0.0,0.0,1,56,QB,north-texas-mean-green
+4,,,5.6,,,,53,Tre Siggers RB,,,,,,152.0,853.0,,,6,56,RB,north-texas-mean-green
+5,,,5.2,,,,54,DeAndre Torrey RB,,,,,,73.0,380.0,,,2,56,RB,north-texas-mean-green
+7,,,4.4,,,,24,Loren Easly RB,,,,,,55.0,243.0,,,1,56,RB,north-texas-mean-green
+8,,,3.2,,,,12,Nic Smith RB,,,,,,33.0,107.0,,,0,56,RB,north-texas-mean-green
+9,,,5.7,,,,20,Jason Bean QB,,,,,,14.0,80.0,,,0,56,QB,north-texas-mean-green
+10,,,10.5,,,,25,Oscar Adaway III RB,,,,,,4.0,42.0,,,0,56,RB,north-texas-mean-green
+11,,,4.0,,,,7,Evan Johnson RB,,,,,,5.0,20.0,,,0,56,RB,north-texas-mean-green
+12,,,6.5,,,,8,Jaelon Darden WR,,,,,,2.0,13.0,,,0,56,WR,north-texas-mean-green
+13,,,-5.7,,,,0,-,,,,,,3.0,-17.0,,,0,56,-,north-texas-mean-green
+14,,,-1.8,,,,14,Mason Fine QB,,,,,,55.0,-98.0,,,2,56,QB,north-texas-mean-green
+15,,9.7,,,,,68,Jaelon Darden WR,,,76.0,,736.0,,,,,12,56,WR,north-texas-mean-green
+16,,13.8,,,,,74,Michael Lawrence WR,,,48.0,,661.0,,,,,3,56,WR,north-texas-mean-green
+17,,14.7,,,,,25,Austin Ogunmakin WR,,,6.0,,88.0,,,,,0,56,WR,north-texas-mean-green
+18,,10.0,,,,,23,Deion Hair-Griffin WR,,,7.0,,70.0,,,,,0,56,WR,north-texas-mean-green
+19,,5.5,,,,,11,Tre Siggers RB,,,11.0,,60.0,,,,,0,56,RB,north-texas-mean-green
+20,,41.0,,,,,41,Cole McCrary TE,,,1.0,,41.0,,,,,0,56,TE,north-texas-mean-green
+21,,13.0,,,,,24,Loren Easly RB,,,2.0,,26.0,,,,,0,56,RB,north-texas-mean-green
+22,,9.5,,,,,11,Roderic Burns WR,,,2.0,,19.0,,,,,0,56,WR,north-texas-mean-green
+23,,12.0,,,,,12,Kyleb Howell TE,,,1.0,,12.0,,,,,0,56,TE,north-texas-mean-green
+24,,4.0,,,,,4,Nick Harvey DB,,,1.0,,4.0,,,,,0,56,DB,north-texas-mean-green
+26,,19.7,,,,,57,Jyaire Shorter WR,,,24.0,,473.0,,,,,9,56,WR,north-texas-mean-green
+27,,13.3,,,,,49,Greg White WR,,,20.0,,265.0,,,,,0,56,WR,north-texas-mean-green
+28,,15.5,,,,,56,Jason Pirtle TE,,,17.0,,263.0,,,,,5,56,TE,north-texas-mean-green
+29,,13.3,,,,,33,Deonte Simpson WR,,,18.0,,240.0,,,,,2,56,WR,north-texas-mean-green
+30,,30.0,,,,,57,Rico Bussey Jr. WR,,,5.0,,150.0,,,,,1,56,WR,north-texas-mean-green
+31,,7.1,,,,,16,Nic Smith RB,,,15.0,,107.0,,,,,0,56,RB,north-texas-mean-green
+32,,6.0,,,,,30,DeAndre Torrey RB,,,16.0,,96.0,,,,,1,56,RB,north-texas-mean-green
+33,,6.8,,,,,10,Kelvin Smith TE,,,13.0,,89.0,,,,,0,56,TE,north-texas-mean-green

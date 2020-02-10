@@ -1,0 +1,30 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.3,,,67.0,52.8,1.0,45,Shai Werts QB,127.0,799.0,,127.4,,,,26.0,-138.0,9,123,QB,georgia-southern-eagles
+1,6.2,,,12.0,46.2,0.0,45,Justin Tomlin QB,26.0,162.0,,98.5,,,,2.0,-4.0,0,123,QB,georgia-southern-eagles
+2,7.0,,,1.0,100.0,0.0,7,Tyler Bass PK,1.0,7.0,,158.8,,,,0.0,0.0,0,123,PK,georgia-southern-eagles
+3,0.0,,,0.0,0.0,0.0,0,Khaleb Hood WR,1.0,0.0,,0.0,,,,0.0,0.0,0,123,WR,georgia-southern-eagles
+5,,,6.9,,,,71,Wesley Kennedy III RB,,,,,,119.0,824.0,,,11,123,RB,georgia-southern-eagles
+6,,,4.3,,,,31,J.D. King RB,,,,,,185.0,804.0,,,8,123,RB,georgia-southern-eagles
+7,,,10.0,,,,10,C.J. Wright NT,,,,,,1.0,10.0,,,0,123,NT,georgia-southern-eagles
+8,,,-7.4,,,,0,-,,,,,,14.0,-104.0,,,0,123,-,georgia-southern-eagles
+10,,,4.3,,,,64,Shai Werts QB,,,,,,171.0,733.0,,,5,123,QB,georgia-southern-eagles
+11,,,5.4,,,,75,Matt LaRoche RB,,,,,,62.0,333.0,,,1,123,RB,georgia-southern-eagles
+12,,,5.7,,,,70,Logan Wright RB,,,,,,52.0,294.0,,,2,123,RB,georgia-southern-eagles
+13,,,6.5,,,,50,Justin Tomlin QB,,,,,,30.0,196.0,,,2,123,QB,georgia-southern-eagles
+14,,,5.0,,,,19,Gerald Green RB,,,,,,21.0,106.0,,,0,123,RB,georgia-southern-eagles
+15,,,5.4,,,,18,Malik Murray WR,,,,,,7.0,38.0,,,0,123,WR,georgia-southern-eagles
+16,,,12.3,,,,25,Khaleb Hood WR,,,,,,3.0,37.0,,,0,123,WR,georgia-southern-eagles
+17,,,7.0,,,,12,NaJee Thompson WR,,,,,,2.0,14.0,,,0,123,WR,georgia-southern-eagles
+18,,16.9,,,,,45,Mark Michaud WR,,,16.0,,271.0,,,,,4,123,WR,georgia-southern-eagles
+19,,9.8,,,,,33,Malik Murray WR,,,20.0,,195.0,,,,,3,123,WR,georgia-southern-eagles
+20,,3.5,,,,,8,Logan Wright RB,,,2.0,,7.0,,,,,0,123,RB,georgia-southern-eagles
+21,,7.0,,,,,7,Anthony Beck II P,,,1.0,,7.0,,,,,0,123,P,georgia-southern-eagles
+22,,-3.0,,,,,0,Matt LaRoche RB,,,2.0,,-6.0,,,,,0,123,RB,georgia-southern-eagles
+24,,29.0,,,,,45,Darion Anderson WR,,,4.0,,116.0,,,,,2,123,WR,georgia-southern-eagles
+25,,12.3,,,,,39,Khaleb Hood WR,,,8.0,,98.0,,,,,0,123,WR,georgia-southern-eagles
+26,,9.2,,,,,24,Wesley Kennedy III RB,,,10.0,,92.0,,,,,0,123,RB,georgia-southern-eagles
+27,,13.8,,,,,25,Colby Ransom WR,,,6.0,,83.0,,,,,0,123,WR,georgia-southern-eagles
+28,,11.2,,,,,24,NaJee Thompson WR,,,6.0,,67.0,,,,,0,123,WR,georgia-southern-eagles
+29,,7.0,,,,,10,J.D. King RB,,,2.0,,14.0,,,,,0,123,RB,georgia-southern-eagles
+30,,13.0,,,,,13,Dexter Carter Jr. WR,,,1.0,,13.0,,,,,0,123,WR,georgia-southern-eagles
+31,,5.5,,,,,10,Cam Brown TE,,,2.0,,11.0,,,,,0,123,TE,georgia-southern-eagles

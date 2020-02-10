@@ -1,0 +1,35 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,5.5,,,57.0,45.2,5.0,54,Sawyer Smith QB,126.0,690.0,,93.8,,,,8.0,-58.0,4,111,QB,kentucky-wildcats
+1,5.4,,,35.0,47.3,3.0,44,Lynn Bowden Jr. WR,74.0,403.0,,98.3,,,,6.0,-27.0,3,111,WR,kentucky-wildcats
+2,6.9,,,33.0,63.5,0.0,40,Terry Wilson QB,52.0,360.0,,134.3,,,,3.0,-8.0,2,111,QB,kentucky-wildcats
+3,5.0,,,2.0,66.7,0.0,8,Walker Wood QB,3.0,15.0,,108.7,,,,0.0,0.0,0,111,QB,kentucky-wildcats
+4,10.0,,,1.0,100.0,0.0,10,Asim Rose RB,1.0,10.0,,184.0,,,,0.0,0.0,0,111,RB,kentucky-wildcats
+5,0.0,,,0.0,0.0,0.0,0,Josh Ali WR,1.0,0.0,,0.0,,,,0.0,0.0,0,111,WR,kentucky-wildcats
+7,,,7.9,,,,61,Lynn Bowden Jr. WR,,,,,,185.0,1468.0,,,13,111,WR,kentucky-wildcats
+8,,,5.5,,,,63,Asim Rose RB,,,,,,149.0,826.0,,,6,111,RB,kentucky-wildcats
+9,,,2.0,,,,2,Akeem Hayes WR,,,,,,1.0,2.0,,,0,111,WR,kentucky-wildcats
+10,,,-0.30000000000000004,,,,4,Clevan Thomas Jr. WR,,,,,,3.0,-1.0,,,0,111,WR,kentucky-wildcats
+11,,,-0.5,,,,15,Sawyer Smith QB,,,,,,24.0,-11.0,,,1,111,QB,kentucky-wildcats
+13,,,6.1,,,,70,Kavosiey Smoke RB,,,,,,101.0,616.0,,,6,111,RB,kentucky-wildcats
+14,,,7.5,,,,64,Christopher Rodriguez Jr. RB,,,,,,71.0,533.0,,,6,111,RB,kentucky-wildcats
+15,,,11.4,,,,53,Travis Tisdale RB,,,,,,5.0,57.0,,,1,111,RB,kentucky-wildcats
+16,,,26.0,,,,45,Tyler Markray RB,,,,,,2.0,52.0,,,1,111,RB,kentucky-wildcats
+17,,,2.6,,,,15,Terry Wilson QB,,,,,,17.0,44.0,,,1,111,QB,kentucky-wildcats
+18,,,26.0,,,,26,Max Duffy P,,,,,,1.0,26.0,,,0,111,P,kentucky-wildcats
+19,,,7.3,,,,10,Walker Wood QB,,,,,,3.0,22.0,,,0,111,QB,kentucky-wildcats
+20,,,3.0,,,,3,Josh Ali WR,,,,,,2.0,6.0,,,0,111,WR,kentucky-wildcats
+21,,11.6,,,,,39,Lynn Bowden Jr. WR,,,30.0,,348.0,,,,,1,111,WR,kentucky-wildcats
+22,,16.9,,,,,54,Ahmad Wagner WR,,,15.0,,254.0,,,,,2,111,WR,kentucky-wildcats
+23,,13.0,,,,,28,Kavosiey Smoke RB,,,2.0,,26.0,,,,,0,111,RB,kentucky-wildcats
+24,,12.0,,,,,12,Drew Schlegel TE,,,1.0,,12.0,,,,,0,111,TE,kentucky-wildcats
+25,,8.0,,,,,8,Nik Ognenovic TE,,,1.0,,8.0,,,,,0,111,TE,kentucky-wildcats
+26,,5.0,,,,,5,Akeem Hayes WR,,,1.0,,5.0,,,,,0,111,WR,kentucky-wildcats
+27,,2.0,,,,,2,Christopher Rodriguez Jr. RB,,,1.0,,2.0,,,,,0,111,RB,kentucky-wildcats
+29,,10.1,,,,,25,Josh Ali WR,,,23.0,,233.0,,,,,3,111,WR,kentucky-wildcats
+30,,11.6,,,,,31,Justin Rigg TE,,,11.0,,128.0,,,,,0,111,TE,kentucky-wildcats
+31,,18.5,,,,,44,Bryce Oliver WR,,,6.0,,111.0,,,,,1,111,WR,kentucky-wildcats
+32,,9.0,,,,,40,Clevan Thomas Jr. WR,,,11.0,,99.0,,,,,1,111,WR,kentucky-wildcats
+33,,11.1,,,,,19,Keaton Upshaw TE,,,7.0,,78.0,,,,,1,111,TE,kentucky-wildcats
+34,,10.7,,,,,17,Allen Dailey Jr. WR,,,7.0,,75.0,,,,,0,111,WR,kentucky-wildcats
+35,,6.1,,,,,13,Asim Rose RB,,,11.0,,67.0,,,,,0,111,RB,kentucky-wildcats
+36,,32.0,,,,,32,Terry Wilson QB,,,1.0,,32.0,,,,,0,111,QB,kentucky-wildcats

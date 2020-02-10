@@ -1,0 +1,35 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,8.1,,,296.0,65.2,10.0,75,Sam Ehlinger QB,454.0,3663.0,,151.8,,,,34.0,-184.0,32,33,QB,texas-longhorns
+1,7.0,,,8.0,66.7,0.0,37,Casey Thompson QB,12.0,84.0,,125.5,,,,2.0,-15.0,0,33,QB,texas-longhorns
+2,7.0,,,2.0,100.0,0.0,8,Devin Duvernay WR,2.0,14.0,,158.8,,,,0.0,0.0,0,33,WR,texas-longhorns
+3,0.0,,,0.0,0.0,0.0,0,Roschon Johnson QB,1.0,0.0,,0.0,,,,0.0,0.0,0,33,QB,texas-longhorns
+4,0.0,,,0.0,0.0,0.0,0,-,1.0,0.0,,0.0,,,,0.0,0.0,0,33,-,texas-longhorns
+6,,,5.9,,,,68,Keaontay Ingram RB,,,,,,144.0,853.0,,,7,33,RB,texas-longhorns
+7,,,4.1,,,,31,Sam Ehlinger QB,,,,,,163.0,663.0,,,7,33,QB,texas-longhorns
+8,,,-3.0,,,,0,-,,,,,,6.0,-18.0,,,0,33,-,texas-longhorns
+10,,,5.3,,,,57,Roschon Johnson QB,,,,,,123.0,649.0,,,7,33,QB,texas-longhorns
+11,,,3.9,,,,17,Daniel Young RB,,,,,,16.0,63.0,,,2,33,RB,texas-longhorns
+12,,,2.4,,,,13,Devin Duvernay WR,,,,,,10.0,24.0,,,1,33,WR,texas-longhorns
+13,,,2.2,,,,9,Casey Thompson QB,,,,,,10.0,22.0,,,1,33,QB,texas-longhorns
+14,,,3.8,,,,6,Kirk Johnson RB,,,,,,4.0,15.0,,,0,33,RB,texas-longhorns
+15,,,12.0,,,,12,Samuel Cosmi OL,,,,,,1.0,12.0,,,1,33,OL,texas-longhorns
+16,,,4.5,,,,8,Jake Smith WR,,,,,,2.0,9.0,,,0,33,WR,texas-longhorns
+17,,,3.0,,,,3,Ryan Bujcevski P,,,,,,1.0,3.0,,,0,33,P,texas-longhorns
+18,,13.1,,,,,75,Devin Duvernay WR,,,106.0,,1386.0,,,,,9,33,WR,texas-longhorns
+19,,14.7,,,,,37,Collin Johnson WR,,,38.0,,559.0,,,,,3,33,WR,texas-longhorns
+20,,11.0,,,,,16,Marcus Washington WR,,,3.0,,33.0,,,,,0,33,WR,texas-longhorns
+21,,9.3,,,,,14,Al'Vonte Woodard WR,,,3.0,,28.0,,,,,0,33,WR,texas-longhorns
+22,,9.5,,,,,11,Jordan Pouncey WR,,,2.0,,19.0,,,,,0,33,WR,texas-longhorns
+23,,8.5,,,,,14,Jordan Whittington RB,,,2.0,,17.0,,,,,0,33,RB,texas-longhorns
+24,,15.0,,,,,15,Jared Wiley TE,,,1.0,,15.0,,,,,0,33,TE,texas-longhorns
+25,,7.0,,,,,8,Sam Ehlinger QB,,,2.0,,14.0,,,,,0,33,QB,texas-longhorns
+26,,3.5,,,,,8,Daniel Young RB,,,2.0,,7.0,,,,,0,33,RB,texas-longhorns
+27,,7.0,,,,,7,Reese Leitao TE,,,1.0,,7.0,,,,,0,33,TE,texas-longhorns
+29,,16.3,,,,,73,Brennan Eagles WR,,,32.0,,522.0,,,,,6,33,WR,texas-longhorns
+30,,11.0,,,,,53,Jake Smith WR,,,25.0,,274.0,,,,,6,33,WR,texas-longhorns
+31,,8.3,,,,,26,Keaontay Ingram RB,,,29.0,,242.0,,,,,3,33,RB,texas-longhorns
+32,,11.6,,,,,36,Malcolm Epps WR,,,20.0,,232.0,,,,,2,33,WR,texas-longhorns
+33,,14.5,,,,,51,Cade Brewer TE,,,11.0,,159.0,,,,,1,33,TE,texas-longhorns
+34,,6.9,,,,,25,Roschon Johnson QB,,,23.0,,158.0,,,,,1,33,QB,texas-longhorns
+35,,10.4,,,,,18,John Burt WR,,,5.0,,52.0,,,,,1,33,WR,texas-longhorns
+36,,37.0,,,,,37,Kennedy Lewis WR,,,1.0,,37.0,,,,,0,33,WR,texas-longhorns

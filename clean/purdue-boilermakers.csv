@@ -1,0 +1,32 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,6.7,,,144.0,59.8,8.0,59,Jack Plummer QB,241.0,1603.0,,124.0,,,,21.0,-162.0,11,47,QB,purdue-boilermakers
+1,6.7,,,103.0,62.8,4.0,72,Aidan O'Connell QB,164.0,1101.0,,130.4,,,,5.0,-40.0,8,47,QB,purdue-boilermakers
+2,8.7,,,72.0,64.3,3.0,70,Elijah Sindelar QB,112.0,978.0,,158.8,,,,2.0,-10.0,9,47,QB,purdue-boilermakers
+3,37.0,,,1.0,100.0,0.0,37,Milton Wright WR,1.0,37.0,,740.8,,,,0.0,0.0,1,47,WR,purdue-boilermakers
+4,0.0,,,0.0,0.0,0.0,0,-,2.0,0.0,,0.0,,,,0.0,0.0,0,47,-,purdue-boilermakers
+6,,,3.5,,,,26,King Doerue RB,,,,,,130.0,451.0,,,5,47,RB,purdue-boilermakers
+7,,,4.8,,,,48,Zander Horvath RB,,,,,,79.0,377.0,,,2,47,RB,purdue-boilermakers
+8,,,1.5,,,,2,Alfred Armour RB,,,,,,2.0,3.0,,,0,47,RB,purdue-boilermakers
+9,,,2.0,,,,2,Milton Wright WR,,,,,,1.0,2.0,,,0,47,WR,purdue-boilermakers
+10,,,-0.6000000000000001,,,,9,Aidan O'Connell QB,,,,,,15.0,-9.0,,,0,47,QB,purdue-boilermakers
+11,,,-4.3,,,,0,-,,,,,,4.0,-17.0,,,0,47,-,purdue-boilermakers
+13,,,0.9,,,,19,Jack Plummer QB,,,,,,62.0,56.0,,,0,47,QB,purdue-boilermakers
+14,,,4.0,,,,13,Jackson Anthrop WR,,,,,,12.0,48.0,,,0,47,WR,purdue-boilermakers
+15,,,2.7,,,,9,Tario Fuller RB,,,,,,12.0,32.0,,,0,47,RB,purdue-boilermakers
+16,,,2.4,,,,9,Elijah Sindelar QB,,,,,,12.0,29.0,,,1,47,QB,purdue-boilermakers
+17,,,4.0,,,,9,David Bell WR,,,,,,3.0,12.0,,,1,47,WR,purdue-boilermakers
+18,,,1.5,,,,4,Da'Joun Hewitt RB,,,,,,6.0,9.0,,,0,47,RB,purdue-boilermakers
+19,,,3.0,,,,3,Richie Worship RB,,,,,,1.0,3.0,,,0,47,RB,purdue-boilermakers
+20,,,1.0,,,,4,Rondale Moore WR,,,,,,3.0,3.0,,,0,47,WR,purdue-boilermakers
+21,,12.0,,,,,54,David Bell WR,,,86.0,,1035.0,,,,,7,47,WR,purdue-boilermakers
+22,,13.6,,,,,72,Brycen Hopkins TE,,,61.0,,830.0,,,,,7,47,TE,purdue-boilermakers
+23,,6.0,,,,,8,TJ Sheffield WR,,,2.0,,12.0,,,,,0,47,WR,purdue-boilermakers
+24,,4.0,,,,,4,Da'Joun Hewitt RB,,,1.0,,4.0,,,,,0,47,RB,purdue-boilermakers
+26,,13.3,,,,,70,Rondale Moore WR,,,29.0,,387.0,,,,,2,47,WR,purdue-boilermakers
+27,,11.1,,,,,54,Amad Anderson Jr. WR,,,31.0,,343.0,,,,,3,47,WR,purdue-boilermakers
+28,,9.2,,,,,38,Jackson Anthrop WR,,,37.0,,340.0,,,,,1,47,WR,purdue-boilermakers
+29,,16.0,,,,,59,Milton Wright WR,,,18.0,,288.0,,,,,1,47,WR,purdue-boilermakers
+30,,7.4,,,,,22,King Doerue RB,,,20.0,,148.0,,,,,2,47,RB,purdue-boilermakers
+31,,8.4,,,,,25,Zander Horvath RB,,,17.0,,142.0,,,,,1,47,RB,purdue-boilermakers
+32,,13.5,,,,,50,Jared Sparks WR,,,8.0,,108.0,,,,,1,47,WR,purdue-boilermakers
+33,,9.1,,,,,26,Payne Durham TE,,,9.0,,82.0,,,,,4,47,TE,purdue-boilermakers

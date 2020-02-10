@@ -1,0 +1,26 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,8.2,,,293.0,60.9,8.0,80,Josh Love QB,481.0,3923.0,,141.2,,,,14.0,-107.0,22,90,QB,san-jose-state-spartans
+1,7.8,,,12.0,70.6,0.0,30,Nick Nash QB,17.0,133.0,,175.1,,,,0.0,0.0,2,90,QB,san-jose-state-spartans
+3,,,4.5,,,,29,DeJon Packer RB,,,,,,125.0,567.0,,,11,90,RB,san-jose-state-spartans
+4,,,6.4,,,,49,Nick Nash QB,,,,,,40.0,255.0,,,3,90,QB,san-jose-state-spartans
+5,,,4.3,,,,19,Kairee Robinson RB,,,,,,40.0,174.0,,,0,90,RB,san-jose-state-spartans
+6,,,3.5,,,,23,Tyler Nevens RB,,,,,,42.0,145.0,,,1,90,RB,san-jose-state-spartans
+7,,,3.5,,,,9,Isaiah Holiness WR,,,,,,11.0,38.0,,,0,90,WR,san-jose-state-spartans
+8,,,4.6,,,,13,Isaiah Hamilton WR,,,,,,7.0,32.0,,,0,90,WR,san-jose-state-spartans
+9,,,4.0,,,,4,Jack Snyder OT,,,,,,1.0,4.0,,,1,90,OT,san-jose-state-spartans
+10,,,-10.0,,,,0,Sitaleki Nunn WR,,,,,,1.0,-10.0,,,0,90,WR,san-jose-state-spartans
+11,,,-3.5,,,,15,Josh Love QB,,,,,,25.0,-88.0,,,3,90,QB,san-jose-state-spartans
+13,,14.7,,,,,50,Tre Walker WR,,,79.0,,1161.0,,,,,2,90,WR,san-jose-state-spartans
+14,,15.6,,,,,80,Bailey Gaither WR,,,52.0,,812.0,,,,,6,90,WR,san-jose-state-spartans
+15,,12.5,,,,,23,Jermaine Braddock WR,,,6.0,,75.0,,,,,2,90,WR,san-jose-state-spartans
+16,,7.3,,,,,18,Kairee Robinson RB,,,7.0,,51.0,,,,,2,90,RB,san-jose-state-spartans
+17,,5.0,,,,,7,Tyler Nevens RB,,,3.0,,15.0,,,,,0,90,RB,san-jose-state-spartans
+18,,4.0,,,,,4,Nick Nash QB,,,1.0,,4.0,,,,,0,90,QB,san-jose-state-spartans
+20,,16.7,,,,,80,Isaiah Hamilton WR,,,43.0,,718.0,,,,,4,90,WR,san-jose-state-spartans
+21,,10.0,,,,,69,DeJon Packer RB,,,27.0,,270.0,,,,,1,90,RB,san-jose-state-spartans
+22,,11.5,,,,,26,Brett Foley TE,,,17.0,,195.0,,,,,1,90,TE,san-jose-state-spartans
+23,,12.2,,,,,24,JaQuan Blackwell WR,,,15.0,,183.0,,,,,1,90,WR,san-jose-state-spartans
+24,,9.4,,,,,26,Derrick Deese Jr. TE,,,19.0,,179.0,,,,,2,90,TE,san-jose-state-spartans
+25,,9.7,,,,,35,Isaiah Holiness WR,,,15.0,,145.0,,,,,1,90,WR,san-jose-state-spartans
+26,,8.7,,,,,40,Billy Humphreys TE,,,15.0,,130.0,,,,,1,90,TE,san-jose-state-spartans
+27,,19.7,,,,,46,Andre Crump WR,,,6.0,,118.0,,,,,1,90,WR,san-jose-state-spartans

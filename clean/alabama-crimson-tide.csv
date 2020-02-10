@@ -1,0 +1,36 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,11.3,,,180.0,71.4,3.0,85,Tua Tagovailoa QB,252.0,2840.0,,206.9,,,,10.0,-63.0,33,106,QB,alabama-crimson-tide
+1,10.7,,,97.0,68.8,3.0,85,Mac Jones QB,141.0,1503.0,,186.8,,,,2.0,-18.0,14,106,QB,alabama-crimson-tide
+2,8.3,,,9.0,75.0,0.0,20,Taulia Tagovailoa QB,12.0,100.0,,172.5,,,,0.0,0.0,1,106,QB,alabama-crimson-tide
+3,6.0,,,1.0,100.0,0.0,6,Slade Bolden WR,1.0,6.0,,480.4,,,,0.0,0.0,1,106,WR,alabama-crimson-tide
+5,,,5.9,,,,31,Najee Harris RB,,,,,,209.0,1224.0,,,13,106,RB,alabama-crimson-tide
+6,,,4.6,,,,37,Brian Robinson Jr. RB,,,,,,96.0,441.0,,,5,106,RB,alabama-crimson-tide
+7,,,2.5,,,,5,Slade Bolden WR,,,,,,4.0,10.0,,,0,106,WR,alabama-crimson-tide
+8,,,5.0,,,,5,Jaylen Waddle WR,,,,,,1.0,5.0,,,0,106,WR,alabama-crimson-tide
+9,,,1.0,,,,1,Jerry Jeudy WR,,,,,,1.0,1.0,,,0,106,WR,alabama-crimson-tide
+10,,,-2.0,,,,0,Taulia Tagovailoa QB,,,,,,1.0,-2.0,,,0,106,QB,alabama-crimson-tide
+11,,,-1.6,,,,0,-,,,,,,8.0,-13.0,,,0,106,-,alabama-crimson-tide
+12,,,-19.0,,,,0,Ty Perine PK,,,,,,1.0,-19.0,,,0,106,PK,alabama-crimson-tide
+14,,,6.5,,,,74,Keilan Robinson RB,,,,,,39.0,254.0,,,2,106,RB,alabama-crimson-tide
+15,,,4.8,,,,37,Jerome Ford RB,,,,,,24.0,114.0,,,3,106,RB,alabama-crimson-tide
+16,,,37.5,,,,75,Henry Ruggs III WR,,,,,,2.0,75.0,,,1,106,WR,alabama-crimson-tide
+17,,,2.3,,,,18,Mac Jones QB,,,,,,16.0,36.0,,,1,106,QB,alabama-crimson-tide
+18,,,2.8,,,,9,Chadarius Townsend WR,,,,,,8.0,22.0,,,0,106,WR,alabama-crimson-tide
+19,,,0.7000000000000001,,,,25,Tua Tagovailoa QB,,,,,,23.0,17.0,,,2,106,QB,alabama-crimson-tide
+20,,,14.0,,,,14,Tyrell Shavers WR,,,,,,1.0,14.0,,,0,106,WR,alabama-crimson-tide
+21,,,6.0,,,,8,De'Marquise Lockridge RB,,,,,,2.0,12.0,,,0,106,RB,alabama-crimson-tide
+22,,18.5,,,,,85,DeVonta Smith WR,,,68.0,,1256.0,,,,,14,106,WR,alabama-crimson-tide
+23,,15.1,,,,,85,Jerry Jeudy WR,,,77.0,,1163.0,,,,,10,106,WR,alabama-crimson-tide
+24,,20.0,,,,,20,Tyrell Shavers WR,,,1.0,,20.0,,,,,0,106,WR,alabama-crimson-tide
+25,,8.0,,,,,19,Jahleel Billingsley TE,,,2.0,,16.0,,,,,0,106,TE,alabama-crimson-tide
+26,,5.5,,,,,9,Jerome Ford RB,,,2.0,,11.0,,,,,0,106,RB,alabama-crimson-tide
+27,,5.0,,,,,5,Giles Amos TE,,,1.0,,5.0,,,,,0,106,TE,alabama-crimson-tide
+28,,-1.0,,,,,0,Mac Jones QB,,,1.0,,-1.0,,,,,0,106,QB,alabama-crimson-tide
+30,,18.6,,,,,81,Henry Ruggs III WR,,,40.0,,746.0,,,,,7,106,WR,alabama-crimson-tide
+31,,17.0,,,,,58,Jaylen Waddle WR,,,33.0,,560.0,,,,,6,106,WR,alabama-crimson-tide
+32,,11.3,,,,,42,Najee Harris RB,,,27.0,,304.0,,,,,7,106,RB,alabama-crimson-tide
+33,,11.1,,,,,27,Miller Forristall TE,,,15.0,,167.0,,,,,4,106,TE,alabama-crimson-tide
+34,,11.3,,,,,34,Brian Robinson Jr. RB,,,11.0,,124.0,,,,,0,106,RB,alabama-crimson-tide
+35,,17.0,,,,,20,Slade Bolden WR,,,2.0,,34.0,,,,,0,106,WR,alabama-crimson-tide
+36,,5.8,,,,,17,John Metchie WR,,,4.0,,23.0,,,,,0,106,WR,alabama-crimson-tide
+37,,7.0,,,,,12,Major Tennison TE,,,3.0,,21.0,,,,,1,106,TE,alabama-crimson-tide

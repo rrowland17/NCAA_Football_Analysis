@@ -1,0 +1,33 @@
+,AVG_Per_Comp,AVG_Per_Rec,AVG_Per_Rush,CMP,CMP%,INT,LNG,Name,Passing_ATT,Passing_YDS,REC,RTG,Recieving_YDS,Rushing_ATT,Rushing_YDS,SACK,SYL,TD,teamNumer,position,team_name
+0,7.1,,,320.0,64.5,12.0,67,Bryce Perkins QB,496.0,3538.0,,134.2,,,,41.0,-240.0,22,23,QB,virginia-cavaliers
+1,9.8,,,15.0,75.0,2.0,44,Brennan Armstrong QB,20.0,196.0,,153.8,,,,0.0,0.0,1,23,QB,virginia-cavaliers
+2,6.0,,,1.0,50.0,1.0,12,Lindell Stone QB,2.0,12.0,,0.4,,,,0.0,0.0,0,23,QB,virginia-cavaliers
+3,2.0,,,1.0,100.0,0.0,2,Nash Griffin PK,1.0,2.0,,116.8,,,,0.0,0.0,0,23,PK,virginia-cavaliers
+4,0.0,,,0.0,0.0,0.0,0,Team -,1.0,0.0,,0.0,,,,0.0,0.0,0,23,-,virginia-cavaliers
+6,,,3.4,,,,67,Bryce Perkins QB,,,,,,227.0,769.0,,,11,23,QB,virginia-cavaliers
+7,,,4.1,,,,31,Wayne Taulapapa RB,,,,,,116.0,473.0,,,12,23,RB,virginia-cavaliers
+8,,,-5.0,,,,0,Lindell Stone QB,,,,,,1.0,-5.0,,,0,23,QB,virginia-cavaliers
+9,,,-2.0,,,,0,Team -,,,,,,7.0,-14.0,,,0,23,-,virginia-cavaliers
+11,,,5.4,,,,38,PK Kier RB,,,,,,32.0,174.0,,,1,23,RB,virginia-cavaliers
+12,,,5.3,,,,37,Mike Hollins RB,,,,,,21.0,112.0,,,3,23,RB,virginia-cavaliers
+13,,,4.9,,,,33,Lamont Atkins RB,,,,,,15.0,73.0,,,1,23,RB,virginia-cavaliers
+14,,,8.6,,,,17,Tavares Kelly Jr. WR,,,,,,5.0,43.0,,,0,23,WR,virginia-cavaliers
+15,,,5.3,,,,22,Joe Reed WR,,,,,,8.0,42.0,,,0,23,WR,virginia-cavaliers
+16,,,2.7,,,,11,Brennan Armstrong QB,,,,,,7.0,19.0,,,0,23,QB,virginia-cavaliers
+17,,,3.5,,,,8,Billy Kemp IV RB,,,,,,2.0,7.0,,,0,23,RB,virginia-cavaliers
+18,,,4.0,,,,4,Jamari Peacock FB,,,,,,1.0,4.0,,,0,23,FB,virginia-cavaliers
+19,,14.2,,,,,67,Hasise Dubois WR,,,75.0,,1062.0,,,,,6,23,WR,virginia-cavaliers
+20,,12.0,,,,,47,Terrell Jana WR,,,74.0,,886.0,,,,,3,23,WR,virginia-cavaliers
+21,,24.0,,,,,24,Charles Snowden LB,,,1.0,,24.0,,,,,0,23,LB,virginia-cavaliers
+22,,4.6,,,,,10,Wayne Taulapapa RB,,,5.0,,23.0,,,,,0,23,RB,virginia-cavaliers
+23,,5.3,,,,,9,Chris Sharp RB,,,4.0,,21.0,,,,,1,23,RB,virginia-cavaliers
+24,,9.0,,,,,15,Dejon Brissett WR,,,2.0,,18.0,,,,,0,23,WR,virginia-cavaliers
+25,,6.0,,,,,6,Grant Misch TE,,,1.0,,6.0,,,,,1,23,TE,virginia-cavaliers
+27,,8.8,,,,,43,Joe Reed WR,,,77.0,,679.0,,,,,7,23,WR,virginia-cavaliers
+28,,11.1,,,,,52,Tanner Cowley TE,,,28.0,,311.0,,,,,1,23,TE,virginia-cavaliers
+29,,8.3,,,,,25,Billy Kemp IV RB,,,35.0,,289.0,,,,,1,23,RB,virginia-cavaliers
+30,,10.9,,,,,35,Tavares Kelly Jr. WR,,,14.0,,152.0,,,,,1,23,WR,virginia-cavaliers
+31,,14.9,,,,,33,Terrell Chatman WR,,,7.0,,104.0,,,,,1,23,WR,virginia-cavaliers
+32,,20.3,,,,,44,Dontayvion Wicks WR,,,3.0,,61.0,,,,,1,23,WR,virginia-cavaliers
+33,,7.6,,,,,34,Lamont Atkins RB,,,8.0,,61.0,,,,,0,23,RB,virginia-cavaliers
+34,,17.0,,,,,28,Hayden Mitchell WR,,,3.0,,51.0,,,,,0,23,WR,virginia-cavaliers
